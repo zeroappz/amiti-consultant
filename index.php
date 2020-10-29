@@ -1,34 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
-    <title>AMITI Consulting</title>
-
-    <!-- Fav Icon 
-    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">-->
-
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;0,900;1,300;1,400;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Muli:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
-
-    <!-- Stylesheets -->
-    <link href="assets/css/font-awesome-all.css" rel="stylesheet">
-    <link href="assets/css/flaticon.css" rel="stylesheet">
-    <link href="assets/css/owl.css" rel="stylesheet">
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/css/jquery.fancybox.min.css" rel="stylesheet">
-    <link href="assets/css/animate.css" rel="stylesheet">
-    <link href="assets/css/color.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
-    <link href="assets/css/responsive.css" rel="stylesheet">
-
-</head>
-
-
+<?php
+include "includes/head_include.php"
+?>
 <!-- page wrapper -->
 
 <body>
@@ -43,274 +15,10 @@
             <div class="layer layer-two"><span class="overlay"></span></div>
             <div class="layer layer-three"><span class="overlay"></span></div>
         </div>
-
-
-        <!-- search-popup
-        <div id="search-popup" class="search-popup">
-            <div class="close-search"><i class="flaticon-close"></i></div>
-            <div class="popup-inner">
-                <div class="overlay-layer"></div>
-                <div class="search-form">
-                    <form method="post" action="http://st.ourhtmldemo.com/new/Eazyrecruitz/index.html">
-                        <div class="form-group">
-                            <fieldset>
-                                <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here" required>
-                                <input type="submit" value="Search Now!" class="theme-btn style-four">
-                            </fieldset>
-                        </div>
-                    </form>
-                    <h3>Recent Search Keywords</h3>
-                    <ul class="recent-searches">
-                        <li><a href="index-2.html">Finance</a></li>
-                        <li><a href="index-2.html">Idea</a></li>
-                        <li><a href="index-2.html">Service</a></li>
-                        <li><a href="index-2.html">Growth</a></li>
-                        <li><a href="index-2.html">Plan</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-         search-popup end -->
-
-
-
-
-
-
-
-
-
-
-
-        <!------------------------ main header ------------------------------------------->
-        <!------------------------ main header ------------------------------------------->
-        <!------------------------------------------------------------------>
-        <header class="main-header">
-            <div class="header-top">
-                <div class="top-inner">
-                    <ul class="left-info">
-                        <li>
-                            <i class="flaticon-phone-call"></i>
-                            <p><span>call: </span><a href="tel: 7034833943">&nbsp;7034833943</a></p>
-                        </li>
-                        <li>
-                            <i class="flaticon-email"></i>
-                            <p><span>Mail: </span><a href="contact@amititech.com">&nbsp;contact@amititech.com</a></p>
-                        </li>
-                        <ul class="social-links" style="text-align: center;">
-                            <li><a href="https://www.facebook.com/Amiti-Consulting-Corp-107328281154175"><i class="fab fa-facebook-f" style="font-size:small;color: #3b5998;"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/amiticorp/"><i class="fab fa-linkedin"style="font-size:small; color: #0e76a8 ;"></i></a></li>
-                            <li><a href="https://twitter.com/amiticorp"><i class="fab fa-twitter" style="font-size:small;color:#00acee "></i></a></li>
-                            <li><a href="https://www.instagram.com/amiticorp/"><i class="fab fa-instagram" style="font-size:small;background:linear-gradient(#405DE6,#5851DB,#833AB4,#C13584,#E1306C,#FD1D1D);"></i></a></li>
-
-                        </ul>
-                    </ul>
-                    <!--        <div class="location-box">
-                        <div class="location-carousel owl-carousel owl-theme owl-dots-none">
-                            <p><span>Recent:</span> Business Development Manager, San Fransisco, CA.</p>
-                            <p><span>Recent:</span> Business Development Manager, Landon, UK.</p>
-                            <p><span>Recent:</span> Business Development Manager, New York.</p>
-                        </div>
-                        <div class="apply-btn"><a href="index-2.html">Apply Online<i class="flaticon-arrow-pointing-to-right"></i></a></div>
-                    </div>
-                    <div class="right-info">
-                        <ul class="list">
-                            <li><a href="index-2.html">About Us</a></li>
-                            <li><a href="index-2.html">Locations</a></li>
-                            <li><a href="index-2.html">Resources</a></li>
-                        </ul>
-                        <ul class="social-links">
-                            <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
-                            <li><a href="index-2.html"><i class="fab fa-youtube"></i></a></li>
-                        </ul>
-                    </div>--><br>
-                </div>
-            </div>
-
-
-
-
-
-
-
-
-
-            <!-------------------------------------------------------------------------->
-            <!--------------------------------Menu - End--------------------------------------->
-            <!-------------------------------------------------------------------------->
-
-            <div class="header-lower">
-                <div class="outer-box clearfix">
-                    <div class="menu-area pull-left clearfix">
-                        <figure class="logo-box" style="background: whitesmoke; padding: 25px;">
-                            <a href="index.html"><img src="assets/images/logo.png" alt="" width="75px" height="55px" style="padding-left: 20px;"> &nbsp; Amiti Corp </a>
-                        </figure>
-                        <!--Mobile Navigation Toggler-->
-                        <div class="mobile-nav-toggler">
-                            <i class="icon-bar"></i>
-                            <i class="icon-bar"></i>
-                            <i class="icon-bar"></i>
-                        </div>
-                        <nav class="main-menu navbar-expand-md navbar-light">
-                            <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
-                                <ul class="navigation clearfix">
-                                    <li class="current dropdown"><a href="index.html">HOME</a></li>
-                                    <li class="dropdown"><a href="about.html">ABOUT</a>
-                                        <ul>
-                                            <li><a href="about.html">About Company</a></li>
-                                            <li><a href="team.html">Meet Our Team</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown"><a href="service.html">SERVICES</a></li>
-                                    <li class="dropdown">
-                                        <a href="faq.html">CLIENTS</a>
-                                        <ul>
-                                            <li><a href="faq.html">FAQ’s</a></li>
-                                            <li><a href="testimonials.html">Testimonials</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown"><a href="career.html">News and Updates</li>
-                                    <li class="dropdown"><a href="career.html">CAREER </li>
-                                       
-                                    <li class="dropdown"><a href="contact.html">Contact</a></li>
-                                </ul>
-                            </div>
-                        </nav>
-                    </div>
-                    <!-------------------------------------------------------------------------->
-                    <!--------------------------------Menu - End--------------------------------------->
-                    <!-------------------------------------------------------------------------->
-
-
-
-
-
-
-
-
-                    <!-------------------------------------------------------------------------->
-                    <ul class="menu-right-content pull-right clearfix">
-                        <!--   <li>
-                            <div class="search-btn">
-                                <button type="button" class="search-toggler"><i class="flaticon-loupe-1"></i></button>
-                            </div>
-                        </li>
-                              <li>
-                            <div class="language">
-                                <div class="lang-btn">
-                                    <i class="icon flaticon-planet-earth"></i>
-                                    <span class="txt">EN</span>
-                                    <span class="arrow fa fa-angle-down"></span>
-                                </div>
-                                <div class="lang-dropdown">
-                                    <ul>
-                                        <li><a href="index-2.html">German</a></li>
-                                        <li><a href="index-2.html">Italian</a></li>
-                                        <li><a href="index-2.html">Chinese</a></li>
-                                        <li><a href="index-2.html">Russian</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>-->
-                        <li>
-                            <a href="contact.html" class="theme-btn-one">Login</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-            <!--sticky Header-->
-            <div class="sticky-header">
-                <div class="outer-box clearfix">
-                    <div class="menu-area pull-left">
-                        <figure class="logo-box">
-                            <a href="index.html"><img src="assets/images/logo.png" alt="" style="width: 80px;"></a>
-                        </figure>
-                        <nav class="main-menu clearfix">
-                            <!--Keep This Empty / Menu will come through Javascript-->
-                        </nav>
-                    </div>
-                    <ul class="menu-right-content pull-right clearfix">
-                        <li>
-                            <div class="search-btn">
-                                <button type="button" class="search-toggler"><i class="flaticon-loupe-1"></i></button>
-                            </div>
-                        </li>
-                        <li>
-                            <!--   <div class="language">
-                                <div class="lang-btn">
-                                    <i class="icon flaticon-planet-earth"></i>
-                                    <span class="txt">EN</span>
-                                    <span class="arrow fa fa-angle-down"></span>
-                                </div>
-                                <div class="lang-dropdown">
-                                    <ul>
-                                        <li><a href="index-2.html">German</a></li>
-                                        <li><a href="index-2.html">Italian</a></li>
-                                        <li><a href="index-2.html">Chinese</a></li>
-                                        <li><a href="index-2.html">Russian</a></li>
-                                    </ul>
-                                </div>
-                            </div>-->
-                        </li>
-                        <li>
-                            <a href="contact.html" class="theme-btn-one">LOGIN</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </header>
-        <!------------------------ main-header end ------------------------------->
-        <!-------------------------------------------------------------------------------------------->
-        <!-------------------------------------------------------------------------------------------->
-
-
-
-
-
-
-
-        <!-- Mobile Menu  --------------------------------------------------------------------------------->
-        <div class="mobile-menu">
-            <div class="menu-backdrop"></div>
-            <div class="close-btn"><i class="fas fa-times"></i></div>
-            <nav class="menu-box">
-                <div class="nav-logo">
-                    <a href="index.html"><img src="assets/images/logo.png" alt="" title="" style="width: 80px;background-color: whitesmoke;"></a>
-                </div>
-                <div class="menu-outer">
-                    <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
-                </div>
-                <div class="contact-info">
-                    <h4>Contact Info</h4>
-                    <ul>
-                        <li>Ashburn, VA 20147</li>
-                        <li><a href="tel:(703) 483-3943">(703) 483-3943</a></li>
-                        <li><a href="mailto:contact@amititech.com">contact@amititech.com</a></li>
-                    </ul>
-                </div>
-                <div class="social-links">
-                    <ul class="clearfix">
-                        <li><a href="index.html"><i class="fab fa-facebook-f" style="font-size:small;color: #3b5998;"></i></a></li>
-                        <li><a href="index.html"><i class="fab fa-youtube"style="font-size:small; color: #FF0000;"></i></a></li>
-                        <li><a href="index.html"><i class="fab fa-twitter" style="font-size:small;color:#00acee "></i></a></li>
-                        <li><a href="index.html"><i class="fab fa-google-plus-g" style="font-size:small;color: #3cba54;"></i></a></li>
-                    </ul>
-                </div>
-            </nav>
-        </div>
-        <!--------- End Mobile Menu ------------------------------------------------------------------->
-
-
-
-
-
-
-
-
-
+        <?php
+        include "includes/header_menu.php";
+        include "includes/mobile_menu.php";
+        ?>
 
         <!---------------------------------------------------------------------------------------->
         <!-- banner-section -------------------------------------------------------------->
@@ -358,149 +66,9 @@
                         </div>
                     </div>
                 </div>
-                <!--    <div class="slide-item style-one ">
-                    <div class="image-layer " style="background-image:url(assets/images/banner/banner-3.jpg) "></div>
-                    <div class="pattern-layer ">
-                        <div class="pattern-1 " style="background-image: url(assets/images/shape/pattern-1.png); "></div>
-                        <div class="pattern-2 " style="background-image: url(assets/images/shape/pattern-2.png); "></div>
-                    </div>
-                    <div class="auto-container ">
-                        <div class="row clearfix ">
-                            <div class="col-xl-7 col-lg-12 col-md-12 content-column ">
-                                <div class="content-box ">
-                                    <span>Engaged with Staffing</span>
-                                    <h1>Eazy Recruitz <br />Provide Employment Opportunities</h1>
-                                    <p>By way of us you can achieve what you want.</p>
-                                    <div class="btn-box ">
-                                        <a href="index-2.html " class="theme-btn-two ">Learn More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>-->
         </section>
         <!-- banner-section end ---------------------------------------------------------------->
         <!---------------------------------------------------------------------------------------->
-
-
-
-
-
-
-
-
-
-
-
-        <!--------------------------------------------------------------------------------------------------->
-        <!-- clients-section 
-        <section class="clients-section ">
-            <div class="outer-container ">
-                <div class="clients-carousel owl-carousel owl-theme owl-dots-none owl-nav-none ">
-                    <!--  <figure class="clients-logo-box ">
-                    <a href="index-2.html "><img src="assets/images/clients/1.png " alt=" "></a>
-                    <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-
-
-                    <a href="index-2.html "><img src="assets/images/clients/2.png " alt=" "></a>
-                    <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-
-                    <a href="index-2.html "><img src="assets/images/clients/3.png " alt=" "></a>
-                    <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-
-                    <a href="index-2.html "><img src="assets/images/clients/4.png " alt=" "></a>
-                    <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-
-                    <a href="index-2.html "><img src="assets/images/clients/5.png " alt=" "></a>
-                    <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-
-                    <a href="index-2.html "><img src="assets/images/clients/6.png " alt=" "></a>
-                    <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/7.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/8.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/9.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/10.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/11.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/12.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/13.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/14.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/6.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/15.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/16.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/17.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/18.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/19.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/20.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-                    <figure class="clients-logo-box ">
-                        <a href="index-2.html "><img src="assets/images/clients/21.png " alt=" "></a>
-                        <span class="logo-title "><a href="index-2.html ">Visit Website</a></span>
-                    </figure>
-
-                </div>
-            </div>
-        </section>
-         clients-section end ------------------------------------------------------>
-
-
-
-
-
-
-
-
-
         <!-- welcome-section -->
         <section class="welcome-section">
             <div class="auto-container">
@@ -782,10 +350,6 @@
                             </div>
                         </div>
                     </div>
-
-
-
-
                 </div>
             </div>
         </section>
@@ -851,100 +415,6 @@
             </div>
         </section>
         <!-- recruitment-technology end -->
-
-
-
-
-
-
-        <!------------------------------------------------------------------------------------------------>
-        <!------------------------------------------------------------------------------------------------>
-
-        <!-- process-section 
-        <section class="process-section centred ">
-            <div class="auto-container ">
-                <div class="sec-title ">
-                    <span class="top-title ">How it’s Possible</span>
-                    <h2>Three Steps of Eazy Recruitz</h2>
-                    <p>Long established fact that a reader will be distracted by the <br>readable content of a page.</p>
-                </div>
-                <div class="row clearfix ">
-                    <div class="col-lg-4 col-md-6 col-sm-12 process-block ">
-                        <div class="process-block-one wow fadeInUp animated animated " data-wow-delay="00ms " data-wow-duration="1500ms ">
-                            <div class="inner-box ">
-                                <figure class="icon-box ">
-                                    <img src="assets/images/icons/icon-16.png " alt=" ">
-                                    <span>01</span>
-                                    <div class="anim-icon ">
-                                        <div class="icon-1 " style="background-image: url(assets/images/shape/pattern-8.png); "></div>
-                                        <div class="icon-2 rotate-me " style="background-image: url(assets/images/icons/anim-icon-2.png); "></div>
-                                        <div class="icon-3 rotate-me " style="background-image: url(assets/images/icons/anim-icon-2.png); "></div>
-                                    </div>
-                                </figure>
-                                <div class="lower-content ">
-                                    <h3>Initiation</h3>
-                                    <p>Choice is untrammelled when nothing prevents our being best.</p>
-                                    <a href="index-2.html ">More Details</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 process-block ">
-                        <div class="process-block-one wow fadeInUp animated animated " data-wow-delay="300ms " data-wow-duration="1500ms ">
-                            <div class="inner-box ">
-                                <figure class="icon-box ">
-                                    <img src="assets/images/icons/icon-17.png " alt=" ">
-                                    <span>02</span>
-                                    <div class="anim-icon ">
-                                        <div class="icon-1 " style="background-image: url(assets/images/shape/pattern-8.png); "></div>
-                                        <div class="icon-2 rotate-me " style="background-image: url(assets/images/icons/anim-icon-2.png); "></div>
-                                        <div class="icon-3 rotate-me " style="background-image: url(assets/images/icons/anim-icon-2.png); "></div>
-                                    </div>
-                                </figure>
-                                <div class="lower-content ">
-                                    <h3>Scheduling</h3>
-                                    <p>Power of choiced is untrammelled and when nothing prevents.</p>
-                                    <a href="index-2.html ">More Details</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 process-block ">
-                        <div class="process-block-one wow fadeInUp animated animated " data-wow-delay="600ms " data-wow-duration="1500ms ">
-                            <div class="inner-box ">
-                                <figure class="icon-box ">
-                                    <img src="assets/images/icons/icon-18.png " alt=" ">
-                                    <span>03</span>
-                                    <div class="anim-icon ">
-                                        <div class="icon-1 " style="background-image: url(assets/images/shape/pattern-8.png); "></div>
-                                        <div class="icon-2 rotate-me " style="background-image: url(assets/images/icons/anim-icon-2.png); "></div>
-                                        <div class="icon-3 rotate-me " style="background-image: url(assets/images/icons/anim-icon-2.png); "></div>
-                                    </div>
-                                </figure>
-                                <div class="lower-content ">
-                                    <h3>Contracts & Pay</h3>
-                                    <p>Every pleasure is to be welcomed pain avoided but in certain.</p>
-                                    <a href="index-2.html ">More Details</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-         process-section end -->
-        <!------------------------------------------------------------------------------------------------>
-        <!------------------------------------------------------------------------------------------------>
-
-
-
-
-
-
-
-
-
-
         <!--------------------------------------------------------------------------------------------------->
         <!---------------------------- team- ------------------------------------------------------->
 
@@ -973,9 +443,6 @@
                                         </div>
                                         <h6>Application and Development</h6>
                                     </div>
-
-
-
                                     <div class="progress-box ">
                                         <div class="bar ">
                                             <div class="bar-inner count-bar " data-percent="52% ">
@@ -1039,7 +506,7 @@
                                                 <p><i class="fas fa-share-alt "></i>Share</p>
                                                 <ul class="social-links clearfix ">
                                                     <li><a href="index-2.html "><i class="fab fa-facebook-f "></i></a></li>
-                                                    <li><a href="index-2.html "><i class="fab fa-twitter "  style="font-size:smaller;color:#00acee "></i></a></li>
+                                                    <li><a href="index-2.html "><i class="fab fa-twitter " style="font-size:smaller;color:#00acee "></i></a></li>
                                                     <li><a href="index-2.html "><i class="fab fa-google-plus-g "></i></a></li>
                                                     <li><a href="index-2.html "><i class="fab fa-youtube " style=" color: #FF0000;"></i></a></li>
                                                 </ul>
@@ -1082,13 +549,6 @@
         </section>
         <!-- team-section end ------------------------------------------------------------------->
         <!--------------------------------------------------------------------------------------->
-
-
-
-
-
-
-
 
         <!--------------------------------------------------------------------------------------->
         <!---------------------------------- news-section ------------------------------------------>
@@ -1172,14 +632,6 @@
         </section>
         <!-- news-section end -------------------------------------------------->
         <!------------------------------------------------------------------------------------------------->
-
-
-
-
-
-
-
-
         <!------------------------------------------------------------------------------------------------->
         <!-------------------------------- testimonial-section ------------------------------------------------->
 
@@ -1258,131 +710,18 @@
         </section>
         <!-------------------------------------- testimonial-section end -------------------------------->
         <!------------------------------------------------------------------------------------------------>
-
-
-
-
-
-
-
-
-
-
-
-
-
-        <!------------------------------------------------------------------------------------------------>
-        <!------------------------------- main-footer ------------------------------------------------------>
-        <footer class="main-footer bg-color-1 ">
-            <div class="pattern-layer " style="background-image: url(assets/images/shape/pattern-11.png); "></div>
-            <div class="auto-container ">
-                <div class="footer-top ">
-                    <div class="widget-section ">
-                        <div class="row clearfix ">
-                            <div class="col-lg-4 col-md-6 col-sm-12 footer-column ">
-                                <div class="footer-widget about-widget ">
-                                    <div class="widget-title ">
-                                        <h3>Address</h3>
-                                    </div>
-                                    <div class="text ">
-                                        <p>Amiti Consulting Corp <br/> 20745 Williamsport Pl Suite<br/> # 350 Ashburn, VA 20147</p>
-                                    </div>
-                                    <ul class="social-links clearfix ">
-                                        <li>
-                                            <h5>Connected:</h5>
-                                        </li>
-                                        <li><a href="https://www.facebook.com/Amiti-Consulting-Corp-107328281154175"><i class="fab fa-facebook-f" style="color: #3b5998;"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/in/amiticorp/"><i class="fab fa-linkedin"style="color: #0e76a8 ;"></i></a></li>
-                                        <li><a href="https://twitter.com/amiticorp"><i class="fab fa-twitter" style="color:#00acee "></i></a></li>
-                                        <li><a href="https://www.instagram.com/amiticorp/"><i class="fab fa-instagram" style="background:linear-gradient(#405DE6,#5851DB,#833AB4,#C13584,#E1306C,#FD1D1D);"></i></a></li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-12 footer-column ">
-                                <div class="footer-widget links-widget ">
-                                    <div class="widget-title ">
-                                        <h3>Quick Links</h3>
-                                    </div>
-                                    <ul class="links-list clearfix ">
-                                        <li><a href="about.html ">About Us</a></li>
-                                        <li><a href="service.html ">Services</a></li>
-                                        <li><a href="team.html ">Meet Out Team</a></li>
-                                        <li><a href="testimonials.html ">Testimonials</a></li>
-                                        <li><a href="faq.html ">FAQs</a></li>
-                                        <li><a href="career.html ">Career</a></li>
-                                        <li><a href="contact.html ">Contact Us</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-12 footer-column ">
-                                <div class="footer-widget contact-widget ">
-
-                                    <div class="single-info-box ">
-                                        <div class="widget-title ">
-                                            <h3>Reach Us</h3>
-                                        </div>
-                                        <ul class="info-box clearfix ">
-                                            <li><a href="tel:(703) 483-3943 ">(703) 483-3943</a></li>
-                                            <li><a href="tel:7034833943 ">7034833943</a></li>
-                                            <li><a href="mailto:contact@amititech.com ">contact@amititech.com</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-subscribe">
-                    <div class="text centred">
-                        <h3>Subscribe Us </h3>
-                    </div>
-                    <form action="http://st.ourhtmldemo.com/new/Eazyrecruitz/contact.html" method="post" class="subscribe-form">
-                        <div class="form-group">
-                            <input type="email" name="email" placeholder="Enter your email address here ..." required="">
-                            <button type="submit"><i class="flaticon-right-arrow"></i>Subscribe US</button>
-                        </div>
-                    </form>
-                </div>
-                <div class="footer-bottom clearfix ">
-                    <div class="copyright pull-center ">
-                        <p>&copy; 2020 <a href="index.html "> Amiti Consulting Corp</a>, All Rights Reserved.</p>
-
-                    </div>
-                    <!--   <ul class="footer-nav pull-right clearfix ">
-                        <li><a href="index-2.html ">Privacy Policy</a></li>
-                        <li><a href="index-2.html ">Terms & Conditions</a></li>
-                        <li><a href="index-2.html ">Site Map</a></li>
-                    </ul>-->
-                </div>
-            </div>
-        </footer>
-        <!-- main-footer end -->
-
+        <?php
+        include "includes/footer.php"
+        ?>
 
         <!--Scroll to top-->
         <button class="scroll-top scroll-to-target " data-target="html "><i class="flaticon-up-arrow-1 "></i>Top</button>
-        </div>
+    </div>
 
+    <?php
+    include "includes/scripts_include.php"
+    ?>
 
-        <!-- jequery plugins -->
-        <script src="assets/js/jquery.js "></script>
-        <script src="assets/js/popper.min.js "></script>
-        <script src="assets/js/bootstrap.min.js "></script>
-        <script src="assets/js/owl.js "></script>
-        <script src="assets/js/wow.js "></script>
-        <script src="assets/js/validation.js "></script>
-        <script src="assets/js/jquery.fancybox.js "></script>
-        <script src="assets/js/TweenMax.min.js "></script>
-        <script src="assets/js/appear.js "></script>
-        <script src="assets/js/jquery.countTo.js "></script>
-        <script src="assets/js/scrollbar.js "></script>
-        <script src="assets/js/jquery.nice-select.min.js "></script>
-        <script src="assets/js/isotope.js "></script>
-        <script src="assets/js/tilt.jquery.js "></script>
-
-        <!-- main-js -->
-        <script src="assets/js/script.js "></script>
 </body>
 <!-- End of .page_wrapper -->
 
