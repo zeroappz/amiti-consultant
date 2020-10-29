@@ -9,7 +9,7 @@
     <title>AMITI Consulting</title>
 
     <!-- Fav Icon 
-    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">-->
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;0,900;1,300;1,400;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
@@ -44,44 +44,6 @@
             <div class="layer layer-three"><span class="overlay"></span></div>
         </div>
 
-
-        <!-- search-popup
-        <div id="search-popup" class="search-popup">
-            <div class="close-search"><i class="flaticon-close"></i></div>
-            <div class="popup-inner">
-                <div class="overlay-layer"></div>
-                <div class="search-form">
-                    <form method="post" action="http://st.ourhtmldemo.com/new/Eazyrecruitz/index.html">
-                        <div class="form-group">
-                            <fieldset>
-                                <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here" required>
-                                <input type="submit" value="Search Now!" class="theme-btn style-four">
-                            </fieldset>
-                        </div>
-                    </form>
-                    <h3>Recent Search Keywords</h3>
-                    <ul class="recent-searches">
-                        <li><a href="index-2.html">Finance</a></li>
-                        <li><a href="index-2.html">Idea</a></li>
-                        <li><a href="index-2.html">Service</a></li>
-                        <li><a href="index-2.html">Growth</a></li>
-                        <li><a href="index-2.html">Plan</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-         search-popup end -->
-
-
-
-
-
-
-
-
-
-
-
         <!------------------------ main header ------------------------------------------->
         <!------------------------ main header ------------------------------------------->
         <!------------------------------------------------------------------>
@@ -105,36 +67,9 @@
 
                         </ul>
                     </ul>
-                    <!--        <div class="location-box">
-                        <div class="location-carousel owl-carousel owl-theme owl-dots-none">
-                            <p><span>Recent:</span> Business Development Manager, San Fransisco, CA.</p>
-                            <p><span>Recent:</span> Business Development Manager, Landon, UK.</p>
-                            <p><span>Recent:</span> Business Development Manager, New York.</p>
-                        </div>
-                        <div class="apply-btn"><a href="index-2.html">Apply Online<i class="flaticon-arrow-pointing-to-right"></i></a></div>
-                    </div>
-                    <div class="right-info">
-                        <ul class="list">
-                            <li><a href="index-2.html">About Us</a></li>
-                            <li><a href="index-2.html">Locations</a></li>
-                            <li><a href="index-2.html">Resources</a></li>
-                        </ul>
-                        <ul class="social-links">
-                            <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
-                            <li><a href="index-2.html"><i class="fab fa-youtube"></i></a></li>
-                        </ul>
-                    </div>--><br>
+                    <br>
                 </div>
             </div>
-
-
-
-
-
-
-
 
 
             <!-------------------------------------------------------------------------->
@@ -191,28 +126,6 @@
 
                     <!-------------------------------------------------------------------------->
                     <ul class="menu-right-content pull-right clearfix">
-                        <!--   <li>
-                            <div class="search-btn">
-                                <button type="button" class="search-toggler"><i class="flaticon-loupe-1"></i></button>
-                            </div>
-                        </li>
-                              <li>
-                            <div class="language">
-                                <div class="lang-btn">
-                                    <i class="icon flaticon-planet-earth"></i>
-                                    <span class="txt">EN</span>
-                                    <span class="arrow fa fa-angle-down"></span>
-                                </div>
-                                <div class="lang-dropdown">
-                                    <ul>
-                                        <li><a href="index-2.html">German</a></li>
-                                        <li><a href="index-2.html">Italian</a></li>
-                                        <li><a href="index-2.html">Chinese</a></li>
-                                        <li><a href="index-2.html">Russian</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>-->
                         <li>
                             <a href="contact.html" class="theme-btn-one">Login</a>
                         </li>
@@ -238,21 +151,6 @@
                             </div>
                         </li>
                         <li>
-                            <!--   <div class="language">
-                                    <div class="lang-btn">
-                                        <i class="icon flaticon-planet-earth"></i>
-                                        <span class="txt">EN</span>
-                                        <span class="arrow fa fa-angle-down"></span>
-                                    </div>
-                                    <div class="lang-dropdown">
-                                        <ul>
-                                            <li><a href="index-2.html">German</a></li>
-                                            <li><a href="index-2.html">Italian</a></li>
-                                            <li><a href="index-2.html">Chinese</a></li>
-                                            <li><a href="index-2.html">Russian</a></li>
-                                        </ul>
-                                    </div>
-                                </div>-->
                         </li>
                         <li>
                             <a href="contact.html" class="theme-btn-one">LOGIN</a>
@@ -304,25 +202,6 @@
 
 
 
-
-        <!--Page Title
-        <section class="page-title" style="background-image: url(assets/images/background/page-title-2.jpg);">
-            <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-35.png);"></div>
-            <div class="auto-container">
-                <div class="content-box">
-                    <div class="title-box centred">
-                        <h1>Temporary Staffing</h1>
-                        <p>Our Team Moves Faster, Keeping you Current on What's Hot</p>
-                    </div>
-                    <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
-                        <li>Solutions</li>
-                        <li>Temporary Staffing</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-        <!--End Page Title-->
 
 
 

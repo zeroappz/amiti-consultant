@@ -27,19 +27,19 @@
                             <p><span>Recent:</span> Business Development Manager, Landon, UK.</p>
                             <p><span>Recent:</span> Business Development Manager, New York.</p>
                         </div>
-                        <div class="apply-btn"><a href="index-2.html">Apply Online<i class="flaticon-arrow-pointing-to-right"></i></a></div>
+                        <div class="apply-btn"><a href="index-2.php">Apply Online<i class="flaticon-arrow-pointing-to-right"></i></a></div>
                     </div>
                     <div class="right-info">
                         <ul class="list">
-                            <li><a href="index-2.html">About Us</a></li>
-                            <li><a href="index-2.html">Locations</a></li>
-                            <li><a href="index-2.html">Resources</a></li>
+                            <li><a href="index-2.php">About Us</a></li>
+                            <li><a href="index-2.php">Locations</a></li>
+                            <li><a href="index-2.php">Resources</a></li>
                         </ul>
                         <ul class="social-links">
-                            <li><a href="index-2.html"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="index-2.html"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="index-2.html"><i class="fab fa-google-plus-g"></i></a></li>
-                            <li><a href="index-2.html"><i class="fab fa-youtube"></i></a></li>
+                            <li><a href="index-2.php"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="index-2.php"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="index-2.php"><i class="fab fa-google-plus-g"></i></a></li>
+                            <li><a href="index-2.php"><i class="fab fa-youtube"></i></a></li>
                         </ul>
                     </div>--><br>
         </div>
@@ -61,7 +61,7 @@
         <div class="outer-box clearfix">
             <div class="menu-area pull-left clearfix">
                 <figure class="logo-box" style="background: whitesmoke; padding: 25px;">
-                    <a href="index.html"><img src="assets/images/logo.png" alt="" width="75px" height="55px" style="padding-left: 20px;"> &nbsp; Amiti Corp </a>
+                    <a href="index.php"><img src="assets/images/logo.png" alt="" width="75px" height="55px" style="padding-left: 20px;"> &nbsp; Amiti Corp </a>
                 </figure>
                 <!--Mobile Navigation Toggler-->
                 <div class="mobile-nav-toggler">
@@ -72,25 +72,25 @@
                 <nav class="main-menu navbar-expand-md navbar-light">
                     <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                         <ul class="navigation clearfix">
-                            <li class="current dropdown"><a href="index.html">HOME</a></li>
-                            <li class="dropdown"><a href="about.html">ABOUT</a>
+                            <li class="current dropdown"><a href="index.php">HOME</a></li>
+                            <li class="dropdown"><a href="about.php">ABOUT</a>
                                 <ul>
-                                    <li><a href="about.html">About Company</a></li>
-                                    <li><a href="team.html">Meet Our Team</a></li>
+                                    <li><a href="about.php">About Company</a></li>
+                                    <li><a href="team.php">Meet Our Team</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown"><a href="service.html">SERVICES</a></li>
+                            <li class="dropdown"><a href="service.php">SERVICES</a></li>
                             <li class="dropdown">
-                                <a href="faq.html">CLIENTS</a>
+                                <a href="faq.php">CLIENTS</a>
                                 <ul>
-                                    <li><a href="faq.html">FAQ’s</a></li>
-                                    <li><a href="testimonials.html">Testimonials</a></li>
+                                    <li><a href="faq.php">FAQ’s</a></li>
+                                    <li><a href="testimonials.php">Testimonials</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown"><a href="career.html">News and Updates</li>
-                            <li class="dropdown"><a href="career.html">CAREER </li>
+                            <li class="dropdown"><a href="career.php">News and Updates</li>
+                            <li class="dropdown"><a href="career.php">CAREER </li>
 
-                            <li class="dropdown"><a href="contact.html">Contact</a></li>
+                            <li class="dropdown"><a href="contact.php">Contact</a></li>
                         </ul>
                     </div>
                 </nav>
@@ -122,16 +122,16 @@
                                 </div>
                                 <div class="lang-dropdown">
                                     <ul>
-                                        <li><a href="index-2.html">German</a></li>
-                                        <li><a href="index-2.html">Italian</a></li>
-                                        <li><a href="index-2.html">Chinese</a></li>
-                                        <li><a href="index-2.html">Russian</a></li>
+                                        <li><a href="index-2.php">German</a></li>
+                                        <li><a href="index-2.php">Italian</a></li>
+                                        <li><a href="index-2.php">Chinese</a></li>
+                                        <li><a href="index-2.php">Russian</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </li>-->
                 <li>
-                    <a href="contact.html" class="theme-btn-one">Login</a>
+                    <a href="contact.php" class="theme-btn-one">Login</a>
                 </li>
             </ul>
         </div>
@@ -142,7 +142,7 @@
         <div class="outer-box clearfix">
             <div class="menu-area pull-left">
                 <figure class="logo-box">
-                    <a href="index.html"><img src="assets/images/logo.png" alt="" style="width: 80px;"></a>
+                    <a href="index.php"><img src="assets/images/logo.png" alt="" style="width: 80px;"></a>
                 </figure>
                 <nav class="main-menu clearfix">
                     <!--Keep This Empty / Menu will come through Javascript-->
@@ -163,16 +163,16 @@
                                 </div>
                                 <div class="lang-dropdown">
                                     <ul>
-                                        <li><a href="index-2.html">German</a></li>
-                                        <li><a href="index-2.html">Italian</a></li>
-                                        <li><a href="index-2.html">Chinese</a></li>
-                                        <li><a href="index-2.html">Russian</a></li>
+                                        <li><a href="index-2.php">German</a></li>
+                                        <li><a href="index-2.php">Italian</a></li>
+                                        <li><a href="index-2.php">Chinese</a></li>
+                                        <li><a href="index-2.php">Russian</a></li>
                                     </ul>
                                 </div>
                             </div>-->
                 </li>
                 <li>
-                    <a href="contact.html" class="theme-btn-one">LOGIN</a>
+                    <a href="contact.php" class="theme-btn-one">LOGIN</a>
                 </li>
             </ul>
         </div>
