@@ -9153,7 +9153,7 @@
  .service-details-content .content-three .tab-btns li.active-btn:before {
      position: absolute;
      content: '';
-     background: #462b34;
+     background: #87CEFA;
      width: 30px;
      height: 30px;
      top: 50%;
@@ -9163,7 +9163,7 @@
  }
  
  .service-details-content .content-three .tab-btns li.active-btn {
-     background: #462b34;
+     background: #87CEFA;
  }
  
  .service-details-content .content-three .tab-btns li:last-child {
@@ -9217,7 +9217,7 @@
      bottom: 0px;
      width: calc(100% - 30px);
      border-top-right-radius: 10px;
-     background: #462b34;
+     background: #87CEFA;
      padding: 34px 30px 32px 30px;
  }
  

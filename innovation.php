@@ -19,6 +19,7 @@ include "includes/head_include.php"
         include "includes/header_menu.php";
         include "includes/mobile_menu.php";
         ?>
+<!------------------------------------------------------------->
 
 
 
@@ -42,70 +43,7 @@ include "includes/head_include.php"
 
                                 </div>
                             </div>
-                            <!--    <div class="content-two">
-                                <div class="inner-box clearfix">
-                                    <div class="single-column">
-                                        <div class="content-box">
-                                            <h5>01</h5>
-                                            <h3>Administration Roles</h3>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i></a></div>
-                                            <div class="icon-box"><i class="flaticon-businessman-1"></i></div>
-                                        </div>
-                                        <div class="overlay-box">
-                                            <div class="icon-box"><i class="flaticon-businessman-1"></i></div>
-                                            <h5>Roles</h5>
-                                            <ul class="list clearfix">
-                                                <li>> Office Coordinator</li>
-                                                <li>> Receptionist</li>
-                                                <li>> Facilities</li>
-                                                <li>> Data Entry</li>
-                                            </ul>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a></div>
-                                        </div>
-                                    </div>
-                                    <div class="single-column">
-                                        <div class="content-box">
-                                            <h5>02</h5>
-                                            <h3>Human Resources Roles</h3>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i></a></div>
-                                            <div class="icon-box"><i class="flaticon-human-resources"></i></div>
-                                        </div>
-                                        <div class="overlay-box">
-                                            <div class="icon-box"><i class="flaticon-human-resources"></i></div>
-                                            <h5>Roles</h5>
-                                            <ul class="list clearfix">
-                                                <li>> Office Coordinator</li>
-                                                <li>> Receptionist</li>
-                                                <li>> Facilities</li>
-                                                <li>> Data Entry</li>
-                                            </ul>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a></div>
-                                        </div>
-                                    </div>
-                                    <div class="single-column">
-                                        <div class="content-box">
-                                            <h5>03</h5>
-                                            <h3>Customer Suport Roles</h3>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i></a></div>
-                                            <div class="icon-box"><i class="flaticon-customer-service"></i></div>
-                                        </div>
-                                        <div class="overlay-box">
-                                            <div class="icon-box"><i class="flaticon-customer-service"></i></div>
-                                            <h5>Roles</h5>
-                                            <ul class="list clearfix">
-                                                <li>> Office Coordinator</li>
-                                                <li>> Receptionist</li>
-                                                <li>> Facilities</li>
-                                                <li>> Data Entry</li>
-                                            </ul>
-                                            <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>-->
-                            <!------------------------------------------------------------------------------------------------------------->
-
-
+                           
 
                             <div class="content-three">
                                 <div class="upper-box">
@@ -119,8 +57,9 @@ include "includes/head_include.php"
                                                 <ul class="tab-btns tab-buttons clearfix">
                                                     <li class="tab-btn active-btn" data-tab="#tab-1">
                                                         <div class="icon-box"><i class="flaticon-checkmark"></i></div>
-                                                        <h6>APPLICATION DEVELOPMENT</h6>
+                                                        <h6>Innovation</h6>
                                                     </li>
+                                                   
                                                 </ul>
                                             </div>
                                         </div>
@@ -130,69 +69,24 @@ include "includes/head_include.php"
                                                     <div class="inner-box">
                                                         <figure class="image-box"><img src="assets/images/service/details-2.jpg" alt=""></figure>
                                                         <div class="text">
-                                                            <h5 style="color:white;">- Full cycle (SDLC application projects)</h5>
-                                                            <h5 style="color:white;">- Applications on various platforms like java, .net etc</h5>
-                                                            <h5 style="color:white;">- Customized applications to customer’s need</h5>
-
-
-
-
-
+                                                            <h5 style="color:white;">Pitch Club Series</h3>
+                                                                <h5 style="color:white;">Challeges</h3>
+                                                                    <h5 style="color:white;">Product Development </h3>
+                                                                        <h5 style="color:white;">Funding</h3>
+                                                                        <h5 style="color:white;">Business Development</h3>
+                                                                 
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="tab" id="tab-2">
-                                                    <div class="inner-box">
-                                                        <figure class="image-box"><img src="assets/images/service/details-2.jpg" alt=""></figure>
-                                                        <div class="text">
-                                                            <h3>Last Minute Hiring</h3>
-                                                            <p>Many variations of passage of lorem Ipsum available but the majority have suffered alterations in some form injected humour, or randomised words slightly.</p>
-                                                            <a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="tab" id="tab-3">
-                                                    <div class="inner-box">
-                                                        <figure class="image-box"><img src="assets/images/service/details-2.jpg" alt=""></figure>
-                                                        <div class="text">
-                                                            <h3>Immediate Hiring</h3>
-                                                            <p>Many variations of passage of lorem Ipsum available but the majority have suffered alterations in some form injected humour, or randomised words slightly.</p>
-                                                            <a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="tab" id="tab-4">
-                                                    <div class="inner-box">
-                                                        <figure class="image-box"><img src="assets/images/service/details-2.jpg" alt=""></figure>
-                                                        <div class="text">
-                                                            <h3>Immediate Hiring</h3>
-                                                            <p>Many variations of passage of lorem Ipsum available but the majority have suffered alterations in some form injected humour, or randomised words slightly.</p>
-                                                            <a href="temprory-staffing.html"><i class="flaticon-right-arrow"></i>More Details</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                                
+                                                
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <!----------------------------------------------------------------------------------------------------->
-                            <p>
 
-                                One of our biggest strengths for successful software projects is our robust and constantly improving project management and software development methodologies based on industry standards. We have a steep experience curve with continuous improvement. This
-                                enables us to maintain an efficient process that promotes learning and allows us to continually refine our delivery. We do various type of application development, including:
-                                <br><br>
-                                <ul style="padding-left: 50px;">
-                                    <li> Full cycle (SDLC application projects)</h3>
-                                    </li>
-                                    <li>Applications on various platforms like JAVA, .Net etc</h3>
-                                    </li>
-                                    <li>Customized applications to customer’s need</h3>
-                                    </li>
-                                    </li>
-                                </ul>
-
-                            </p>
 
 
 
@@ -201,43 +95,65 @@ include "includes/head_include.php"
 
                             <!-------------------------------------Service Advantages----------------------------------------------->
 
-                            <!-- <div class="content-four">
-                                      <div class="upper-box">
+                            <div class="content-four">
+                                <!--       <div class="upper-box">
                                     <h3>Service Advantages</h3>
                                     <p>Trouble that are bound to ensue; and equaly blame belongs those who fail in their duty through weakness of will which is the same as saying through shrinking from toil and pain.</p>
-                                </div>
+                                </div>-->
                                 <div class="inner-box">
                                     <div class="row clearfix">
                                         <div class="col-lg-6 col-md-6 col-sm-12 column">
                                             <ul class="list-item clearfix">
                                                 <li>
                                                     <div class="icon-box"><i class="flaticon-short-tie"></i></div>
-                                                    <b>>APPLICATION DEVELOPMENT</b>
+                                                    <b>Pitch Club</b>
                                                     <div class="more-content">
-                                                       <div class="menu-icon" ><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
-                                                        <div class="text" style="width: 375px; padding-left: 50px;">
-                                                            <p>
-
-                                                                One of our biggest strengths for successful software projects is our robust and constantly improving project management and software development methodologies based on industry standards. We have a steep experience curve with continuous improvement. This enables us to maintain an efficient process that promotes learning and allows us to continually refine our delivery. We do various type of application development, including:
-                                                                
-                                                                    Full cycle (SDLC application projects)
-                                                                    Applications on various platforms like JAVA, .Net etc
-                                                                    Customized applications to customer’s need
-                                                                
-                                                                
+                                                        <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
+                                                        <div class="text">
+                                                            <p>Pitch Club Michigan is an ongoing series of monthly startup events across the Michigan landscape (Detroit, Ann Arbor, Lansing, Flint, Pontiac, and Grand Rapids). The events are meant to educate, network, inspire and provide valuable experiences for being investable.
                                                             </p>
                                                         </div>
                                                     </div>
                                                 </li>
+                                                <li>
+                                                    <div class="icon-box"><i class="flaticon-google-maps"></i></div>
+                                                    <b>Product Development</b>
+                                                    <div class="more-content">
+                                                        <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
+                                                        <div class="text">
+                                                            <p>Expertise and experience blend to add value to your product life cycle. We bring extreme development methods to build exceptional products. </p>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                
                                                
+
                                             </ul>
                                         </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-12 column">
+                                            <ul class="list-item clearfix">
+                                                <li>
+                                                    <div class="icon-box"><i class="flaticon-hourglass"></i></div>
+                                                    <b>challenges</b>
+                                                    <div class="more-content">
+                                                        <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
+                                                        <div class="text">
+                                                            <p>The challenges cut across several verticals like Mobility, AI, Fintech and more. </p>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                               
+                                                
+                                               
+
+                                            </ul>
+                                        </div>
+                                        <br>
                                         
                                     </div>
                                 </div>
                             </div>
                             <!-------------------------------------------------------------------------------------------------->
-
 
 
 
@@ -302,10 +218,10 @@ include "includes/head_include.php"
                         <div class="service-sidebar">
                             <div class="sidebar-widget categories-widget">
                                 <ul class="categories-list clearfix">
-                                    <li><a href="itconsult.html" style="font-size: 15px;">IT CONSULTING</a></li>
-                                    <li><a href="application.html" class="active" style="font-size: 15px;">APPLICATION DEVELOPMENT</a></li>
-                                    <li><a href="offshore.html" style="font-size: 15px;">OFFSHORE SERVICES</a></li>
-                                    <li><a href="staffing.html" style="font-size: 15px;">STAFFING</a></li>
+                                    <li><a href="technology.php"  style="font-size: 15px;">Technology</a></li>
+                                    <li><a href="innovation.php" class="active" style="font-size: 15px;">Innovation</a></li>
+                                    <li><a href="workforce.php" style="font-size: 15px;">Workforce management</a></li>
+                                   
 
                                 </ul>
                             </div>
@@ -361,6 +277,10 @@ include "includes/head_include.php"
 
 
 
+
+
+    <!------------------------Footer------------------------------------------------------------------------>    
+       
     <?php
         include "includes/footer.php"
         ?>
