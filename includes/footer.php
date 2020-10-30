@@ -64,7 +64,7 @@
             <div class="text centred">
                 <h3>Subscribe Us </h3>
             </div>
-            <form action="http://st.ourhtmldemo.com/new/Eazyrecruitz/contact.html" method="post" class="subscribe-form">
+            <form action="#" method="post" class="subscribe-form">
                 <div class="form-group">
                     <input type="email" name="email" placeholder="Enter your email address here ..." required="">
                     <button type="submit"><i class="flaticon-right-arrow"></i>Subscribe US</button>

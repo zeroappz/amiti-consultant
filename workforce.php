@@ -233,7 +233,7 @@ include "includes/head_include.php"
                             </div>
                             <div class="sidebar-widget subscribe-widget">
                                 <h3>Reach Out</h3>
-                                <form action="http://st.ourhtmldemo.com/new/Eazyrecruitz/index.html" method="post" class="subscribe-form">
+                                <form action="#" method="post" class="subscribe-form">
                                     <div class="form-group">
                                         <label>Your Name</label>
                                         <input type="text" name="name" placeholder="Mr/Mrs.xxxxx" required="">

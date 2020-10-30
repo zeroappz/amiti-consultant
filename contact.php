@@ -91,7 +91,7 @@ include "includes/head_include.php"
                     <div class="col-lg-8 col-md-12 col-sm-12 form-column">
                         <div class="form-inner">
                             <h2>What are you looking for?</h2>
-                            <form method="post" action="http://st.ourhtmldemo.com/new/Eazyrecruitz/sendemail.php" id="contact-form" class="default-form">
+                            <form method="post" action="#" id="contact-form" class="default-form">
                                 <div class="row clearfix">
                                     <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                         <input type="text" name="username" placeholder="First Name *" required="">
