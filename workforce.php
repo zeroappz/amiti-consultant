@@ -219,7 +219,7 @@ include "includes/head_include.php"
 
                                 </ul>
                             </div>
-                            <div class="sidebar-widget recruitment-widget">
+                          <!--  <div class="sidebar-widget recruitment-widget">
                                 <div class="widget-content">
                                     <div class="text">
                                         <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-43.png);"></div>
@@ -251,7 +251,7 @@ include "includes/head_include.php"
                                         <button type="submit" class="theme-btn-one">Send Your Interest</button>
                                     </div>
                                 </form>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
