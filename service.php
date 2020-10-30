@@ -59,7 +59,7 @@ include "includes/head_include.php"
             </div>
             <div class="auto-container">
                 <div class="sec-title centred">
-                    <span class="top-title">Services We Provide</span>
+                    <span class="top-title"><span style="font-size: 22px;color: white;margin-left: -6px;">Se</span>rvices We Provide</span>
                     <h2>What Can We Do For You?</h2>
                     <p>Here at Amiti Consulting we provide a multitude of IT related services including IT Consulting, Resource Augmentation, Application Development, and a variety of Offshore Services.</p>
                 </div>
@@ -79,7 +79,14 @@ include "includes/head_include.php"
                                         </div>
                                     </div>
                                     <div class="overlay-content ">
-                                        <p>Cloud<br> AWS Migration<br>IOT<br> Mobile & more</p>
+                                    <ul>
+                                        <li>Cloud</li>  
+                                        <li>AWS Migration</li> 
+                                        <li>IOT</li> 
+                                        <li>Mobile & more</li>    
+                                     </ul>
+                                        <p>
+                                            <br> <br><br> </p>
                                         <a href="Technology.php "><i class="flaticon-right-arrow "></i>More details</a>
                                     </div>
                                 </div>
