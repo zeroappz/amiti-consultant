@@ -79,14 +79,13 @@ include "includes/head_include.php"
                                         </div>
                                     </div>
                                     <div class="overlay-content ">
-                                    <ul>
-                                        <li>Cloud</li>  
-                                        <li>AWS Migration</li> 
-                                        <li>IOT</li> 
-                                        <li>Mobile & more</li>    
+                                    <ul style="text-align: left;padding:20px;">
+                                        <li> - IOT</li> 
+                                        <li> - Cloud</li>  
+                                        <li> - AWS Migration</li>
+                                        <li> - Mobile & more</li>    
                                      </ul>
-                                        <p>
-                                            <br> <br><br> </p>
+                                        
                                         <a href="Technology.php "><i class="flaticon-right-arrow "></i>More details</a>
                                     </div>
                                 </div>
@@ -109,7 +108,13 @@ include "includes/head_include.php"
                                         </div>
                                     </div>
                                     <div class="overlay-content ">
-                                        <p>Pitch Club Series<br> Challeges<br> Product Development</p>
+                                    <ul style="text-align: left;padding:20px;">
+                                        <li> - Pitch Club Series</li> 
+                                        <li> - Challeges</li>  
+                                        <li> - Product Development</li>
+                                         
+                                     </ul>
+                                       
                                         <a href="innovation.php "><i class="flaticon-right-arrow "></i>More details</a>
                                     </div>
                                 </div>
@@ -132,7 +137,12 @@ include "includes/head_include.php"
                                         </div>
                                     </div>
                                     <div class="overlay-content ">
-                                        <p>Corporate Position<br> Client Position</p>
+                                    <ul style="text-align: left;padding:20px;">
+                                        <li> - Corporate Position</li> 
+                                        <li> - Client Position</li>  
+                                        
+                                     </ul>
+                                        <p><br> </p>
                                         <a href="workforce.php "><i class="flaticon-right-arrow "></i>More details</a>
                                     </div>
                                 </div>
