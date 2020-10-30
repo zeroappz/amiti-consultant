@@ -17,7 +17,7 @@
                     <li><a href="https://www.facebook.com/Amiti-Consulting-Corp-107328281154175"><i class="fab fa-facebook-f" style="font-size:small;color: #3b5998;"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/amiticorp/"><i class="fab fa-linkedin" style="font-size:small; color: #0e76a8 ;"></i></a></li>
                     <li><a href="https://twitter.com/amiticorp"><i class="fab fa-twitter" style="font-size:small;color:#00acee "></i></a></li>
-                    <li><a href="https://www.instagram.com/amiticorp/"><i class="fab fa-instagram" style="font-size:small;background:linear-gradient(#405DE6,#5851DB,#833AB4,#C13584,#E1306C,#FD1D1D);"></i></a></li>
+                    <li><a href="https://www.instagram.com/amiticorp/"><i class="fab fa-instagram" style="font-size:small;background:#FEB650;"></i></a></li>
 
                 </ul>
             </ul>
