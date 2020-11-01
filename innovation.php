@@ -178,6 +178,40 @@ include "includes/head_include.php"
                                 </ul>
                             </div>
 
+                       <!--   <div class="sidebar-widget recruitment-widget">
+                                <div class="widget-content">
+                                    <div class="text">
+                                        <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-43.png);"></div>
+                                        <figure class="image-box"><img src="assets/images/resource/men-1.png" alt=""></figure>
+                                        <h3>Recruitment Solutions for All Industries...</h3>
+                                    </div>
+                                    <div class="link">
+                                        <a href="index-2.html"><i class="flaticon-right-arrow"></i>Place a Job Order</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="sidebar-widget subscribe-widget">
+                                <h3>Reach Out</h3>
+                                <form action="#" method="post" class="subscribe-form">
+                                    <div class="form-group">
+                                        <label>Your Name</label>
+                                        <input type="text" name="name" placeholder="Mr/Mrs.xxxxx" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Email Address</label>
+                                        <input type="email" name="name" placeholder="example@domain.com" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Interested In</label>
+                                        <input type="text" name="name" placeholder="Your Interest" required="">
+                                    </div>
+
+                                    <div class="form-group message-btn">
+                                        <button type="submit" class="theme-btn-one">Send Your Interest</button>
+                                    </div>
+                                </form>
+                            </div>-->
+
                         </div>
                     </div>
                 </div>

@@ -52,6 +52,9 @@ include "includes/head_include.php"
                                     <div class="overlay-content ">
                                         <p>Cloud<br> AWS Migration<br>IOT</p>
                                         <a href="technology.php "><i class="flaticon-right-arrow "></i>More details</a>
+
+                                        <a href="Technology.php "><i class="flaticon-right-arrow "></i>More details</a>
+
                                     </div>
                                 </div>
                             </div>
@@ -96,7 +99,12 @@ include "includes/head_include.php"
                                         </div>
                                     </div>
                                     <div class="overlay-content ">
-                                        <p>Corporate Position<br> Client Position</p>
+                                    <ul style="text-align: left;padding:20px;">
+                                        <li> - Corporate Position</li> 
+                                        <li> - Client Position</li>  
+                                        
+                                     </ul>
+                                        <p><br> </p>
                                         <a href="workforce.php "><i class="flaticon-right-arrow "></i>More details</a>
                                     </div>
                                 </div>
