@@ -38,7 +38,7 @@ include "includes/head_include.php"
                                 </div>
                                 <!--    <figure class="image-box"><img src="assets/images/service/details-1.jpg" alt=""></figure>-->
                                 <div class="text">
-                                    <p>Come experience the next generation digital transformation services, adhering to business-centric models for helping Enterprises to achieve the best. Machint’s digital practice drives the outcomes by providing exceptional
+                                    <p style="text-align:justify;">Come experience the next generation digital transformation services, adhering to business-centric models for helping Enterprises to achieve the best. Machint’s digital practice drives the outcomes by providing exceptional
                                         user experience, industry insights, innovation, agility and assurance. Learn how we help clients transform business, operating and technology models in this digital era.</p>
 
                                 </div>
@@ -156,59 +156,11 @@ include "includes/head_include.php"
                             <!-------------------------------------------------------------------------------------------------->
 
 
-
-
-
-
-
-                            <!-------------------------------------------------------------------------------------------------->
-                            <!--------------------------------------Our Latest Projects-------------------------------------------------->
-
-                            <!--     <div class="content-five">
-                                <div class="upper-box">
-                                    <h3>Our Latest Projects</h3>
-                                </div>
-                                <div class="latest-project-carousel owl-carousel owl-theme owl-dots-none">
-                                    <div class="project-block-two">
-                                        <div class="inner-box">
-                                            <figure class="image-box"><img src="assets/images/project/project-10.jpg" alt=""></figure>
-                                            <div class="content-box">
-                                                <div class="text">
-                                                    <span>@ Presentation</span>
-                                                    <h3><a href="temprory-staffing.html">Helping Bigbasket Scale Up</a></h3>
-                                                </div>
-                                                <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow-angle"></i></a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="project-block-two">
-                                        <div class="inner-box">
-                                            <figure class="image-box"><img src="assets/images/project/project-11.jpg" alt=""></figure>
-                                            <div class="content-box">
-                                                <div class="text">
-                                                    <span>@ Presentation</span>
-                                                    <h3><a href="temprory-staffing.html">Helping Bigbasket Scale Up</a></h3>
-                                                </div>
-                                                <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow-angle"></i></a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>-->
                         </div>
                     </div>
 
                     <!------------------------------------------------------------------------------------------->
                     <!------------------------------------------------------------------------------------------->
-
-
-
-
-
-
-
-
-
 
 
                     <!------------------------------------------------------------------------------------------->
@@ -225,39 +177,7 @@ include "includes/head_include.php"
 
                                 </ul>
                             </div>
-                            <div class="sidebar-widget recruitment-widget">
-                                <div class="widget-content">
-                                    <div class="text">
-                                        <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-43.png);"></div>
-                                        <figure class="image-box"><img src="assets/images/resource/men-1.png" alt=""></figure>
-                                        <h3>Recruitment Solutions for All Industries...</h3>
-                                    </div>
-                                    <div class="link">
-                                        <a href="index-2.html"><i class="flaticon-right-arrow"></i>Place a Job Order</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="sidebar-widget subscribe-widget">
-                                <h3>Reach Out</h3>
-                                <form action="#" method="post" class="subscribe-form">
-                                    <div class="form-group">
-                                        <label>Your Name</label>
-                                        <input type="text" name="name" placeholder="Mr/Mrs.xxxxx" required="">
-                                    </div>
-                                    <div class="form-group">
-                                        <label>Email Address</label>
-                                        <input type="email" name="name" placeholder="example@domain.com" required="">
-                                    </div>
-                                    <div class="form-group">
-                                        <label>Interested In</label>
-                                        <input type="text" name="name" placeholder="Your Interest" required="">
-                                    </div>
 
-                                    <div class="form-group message-btn">
-                                        <button type="submit" class="theme-btn-one">Send Your Interest</button>
-                                    </div>
-                                </form>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -265,18 +185,6 @@ include "includes/head_include.php"
     </div>
     </section>-->
     <!-- service-details end ----------------------------------------------------------------------------->
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <!------------------------Footer------------------------------------------------------------------------>    

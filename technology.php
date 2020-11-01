@@ -33,12 +33,12 @@ include "includes/head_include.php"
                         <div class="service-details-content">
                             <div class="content-one">
                                 <div class="sec-title">
-                                    <span class="top-title">Our Services</span>
+                                    <span class="top-title"><span style="font-size: 22px;color: white;margin-left: -8px;">Ou</span>r Services</span>
                                     <!--  <h2>Understanding Your HR Needs Better</h2>-->
                                 </div>
                                 <!--    <figure class="image-box"><img src="assets/images/service/details-1.jpg" alt=""></figure>-->
                                 <div class="text">
-                                    <p>Come experience the next generation digital transformation services, adhering to business-centric models for helping Enterprises to achieve the best. Machint’s digital practice drives the outcomes by providing exceptional
+                                    <p style="text-align:justify;">Come experience the next generation digital transformation services, adhering to business-centric models for helping enterprises to achieve the best. Amiti’s digital practice drives the outcomes by providing exceptional
                                         user experience, industry insights, innovation, agility and assurance. Learn how we help clients transform business, operating and technology models in this digital era.</p>
 
                                 </div>
@@ -48,6 +48,7 @@ include "includes/head_include.php"
                             <div class="content-three">
                                 <div class="upper-box">
                                     <h3>To Know More</h3>
+                                    <p style="text-align:justify;">Amiti Corp is a high-performance technology solutions company focusing on engineering and information technology. We understand our clients’ critical business objectives and provide the best available resources while delivering unmatched value and services throughout the relationship and beyond.</p>
 
                                 </div>
                                 <div class="tabs-box">
@@ -70,16 +71,13 @@ include "includes/head_include.php"
                                                         <figure class="image-box"><img src="assets/images/service/details-2.jpg" alt=""></figure>
                                                         <div class="text">
                                                             <h5 style="color:white;">Cloud</h3>
-                                                                <h5 style="color:white;">AWS Migration</h3>
-                                                                    <h5 style="color:white;">IoT </h3>
-                                                                        <h5 style="color:white;">Mobile</h3>
-                                                                        <h5 style="color:white;">Analytics</h3>
-                                                                        <h5 style="color:white;">Cyber Security</h3>
-                                                                        <h5 style="color:white;"> Digital Transformation</h3>
-                                                                       
-
-
-
+                                                            <h5 style="color:white;">AWS Migration</h3>
+                                                            <h5 style="color:white;">IoT </h3>
+                                                            <h5 style="color:white;">Mobile</h3>
+                                                            <h5 style="color:white;">Analytics</h3>
+                                                            <h5 style="color:white;">Cyber Security</h3>
+                                                            <h5 style="color:white;"> Digital Transformation</h3>
+                                                            
                                                         </div>
                                                     </div>
                                                 </div>
@@ -111,7 +109,7 @@ include "includes/head_include.php"
                                             <ul class="list-item clearfix">
                                                 <li>
                                                     <div class="icon-box"><i class="flaticon-short-tie"></i></div>
-                                                    <b>Cloud</b>
+                                                    <a href="cloud.php">Cloud</a>
                                                     <div class="more-content">
                                                         <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
                                                         <div class="text">
@@ -119,35 +117,36 @@ include "includes/head_include.php"
                                                             </p>
                                                         </div>
                                                     </div>
+
                                                 </li>
                                                 <li>
                                                     <div class="icon-box"><i class="flaticon-google-maps"></i></div>
-                                                    <b>AWS Migration</b>
+                                                    <a href="aws.php">AWS Migration</a>
                                                     <div class="more-content">
                                                         <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
                                                         <div class="text">
-                                                            <p>Cloud migration technologies revolutionize how the world conducts business. Migrating to Amazon Web Services (AWS) brings convenience, speed and scalability to companies of all sizes. More and more applications are being built for cloud computing.</p>
+                                                            <p>Certified AWS Partners <br> IT Experts with 20+ Years of IT Consulting experience <br> Start to finish migration<br> Safe & Secure migration</p>
                                                         </div>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class="icon-box"><i class="flaticon-money-bag"></i></div>
-                                                    <b>IoT</b>
+                                                    <a href="iot.php">IoT</a>
                                                     <div class="more-content">
                                                         <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
                                                         <div class="text">
-                                                            <p>Machine Learning <br> Blockchain <br>Rules Engine <br>Geofence Editor<br> Device Management<br> Firmware Management<br> Events and Notifications
+                                                            <p>Machine Learning <br> Blockchain <br>Rules Engine <br>Geofence Editor<br> Device Management<br> Firmware Management<br> Events and Notifications <br> UI/UX Widgets
                                                             </p>
                                                         </div>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class="icon-box"><i class="flaticon-google-maps"></i></div>
-                                                    <b>Cyber Security</b>
+                                                    <a href="cyber.php">Cyber Security</a>
                                                     <div class="more-content">
                                                         <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
                                                         <div class="text">
-                                                            <p>IAM Security Device Management<br> Fraud and Online Threat<br> Application Security<br> Data Protection Services<br>GRC </p>
+                                                            <p>IAM<br> Security Device Management<br> Fraud and Online Threat<br> Application Security<br> Data Protection Services<br>GRC <br> Cyber Defence Services</p>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -158,7 +157,7 @@ include "includes/head_include.php"
                                             <ul class="list-item clearfix">
                                                 <li>
                                                     <div class="icon-box"><i class="flaticon-hourglass"></i></div>
-                                                    <b>Mobile</b>
+                                                    <a href="mobile.php">Mobile</a>
                                                     <div class="more-content">
                                                         <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
                                                         <div class="text">
@@ -168,17 +167,17 @@ include "includes/head_include.php"
                                                 </li>
                                                 <li>
                                                     <div class="icon-box"><i class="flaticon-google-maps"></i></div>
-                                                    <b>Analytics</b>
+                                                    <a href="analytics.php">Analytics</a>
                                                     <div class="more-content">
                                                         <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
                                                         <div class="text">
-                                                            <p>Dash Board<br>Big Data<br>Data Warehouse<br>Reporting<br>ETL</p>
+                                                            <p>Dashboard<br>Big Data<br>Data Warehouse<br>Reporting<br>ETL</p>
                                                         </div>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class="icon-box"><i class="flaticon-google-maps"></i></div>
-                                                    <b>Digital Transformation</b>
+                                                    <a href="digital.php">Digital Transformation</a>
                                                     <div class="more-content">
                                                         <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
                                                         <div class="text">
@@ -199,45 +198,7 @@ include "includes/head_include.php"
 
 
 
-
-
-
-
-                            <!-------------------------------------------------------------------------------------------------->
-                            <!--------------------------------------Our Latest Projects-------------------------------------------------->
-
-                            <!--     <div class="content-five">
-                                <div class="upper-box">
-                                    <h3>Our Latest Projects</h3>
-                                </div>
-                                <div class="latest-project-carousel owl-carousel owl-theme owl-dots-none">
-                                    <div class="project-block-two">
-                                        <div class="inner-box">
-                                            <figure class="image-box"><img src="assets/images/project/project-10.jpg" alt=""></figure>
-                                            <div class="content-box">
-                                                <div class="text">
-                                                    <span>@ Presentation</span>
-                                                    <h3><a href="temprory-staffing.html">Helping Bigbasket Scale Up</a></h3>
-                                                </div>
-                                                <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow-angle"></i></a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="project-block-two">
-                                        <div class="inner-box">
-                                            <figure class="image-box"><img src="assets/images/project/project-11.jpg" alt=""></figure>
-                                            <div class="content-box">
-                                                <div class="text">
-                                                    <span>@ Presentation</span>
-                                                    <h3><a href="temprory-staffing.html">Helping Bigbasket Scale Up</a></h3>
-                                                </div>
-                                                <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow-angle"></i></a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>-->
-                        </div>
+                    </div>
                     </div>
 
                     <!------------------------------------------------------------------------------------------->
@@ -267,41 +228,6 @@ include "includes/head_include.php"
 
                                 </ul>
                             </div>
-                            <div class="sidebar-widget recruitment-widget">
-                                <div class="widget-content">
-                                    <div class="text">
-                                        <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-43.png);"></div>
-                                        <figure class="image-box"><img src="assets/images/resource/men-1.png" alt=""></figure>
-                                        <h3>Recruitment Solutions for All Industries...</h3>
-                                    </div>
-                                    <div class="link">
-                                        <a href="index-2.html"><i class="flaticon-right-arrow"></i>Place a Job Order</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="sidebar-widget subscribe-widget">
-                                <h3>Reach Out</h3>
-                                <form action="#" method="post" class="subscribe-form">
-                                    <div class="form-group">
-                                        <label>Your Name</label>
-                                        <input type="text" name="name" placeholder="Mr/Mrs.xxxxx" required="">
-                                    </div>
-                                    <div class="form-group">
-                                        <label>Email Address</label>
-                                        <input type="email" name="name" placeholder="example@domain.com" required="">
-                                    </div>
-                                    <div class="form-group">
-                                        <label>Interested In</label>
-                                        <input type="text" name="name" placeholder="Your Interest" required="">
-                                    </div>
-
-                                    <div class="form-group message-btn">
-                                        <button type="submit" class="theme-btn-one">Send Your Interest</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
     </div>

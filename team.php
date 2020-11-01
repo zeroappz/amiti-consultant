@@ -22,7 +22,7 @@ include "includes/head_include.php"
 <!------------------------------------------------------------->
 
 
-        <!--Page Title-->
+        <!--Page Title
         <section class="page-title" style="background-image: url(assets/images/background/page-title-2.jpg);">
             <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-35.png);"></div>
             <div class="auto-container">
@@ -33,13 +33,13 @@ include "includes/head_include.php"
                     </div>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index-2.html">Home</a></li>
-                        <!--<li>About</li>-->
+                        <!--<li>About</li>
                         <li>Meet Our Team</li>
                     </ul>
                 </div>
             </div>
         </section>
-        <!--End Page Title-->
+        End Page Title-->
 
 
 

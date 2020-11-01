@@ -21,34 +21,6 @@ include "includes/head_include.php"
         include "includes/mobile_menu.php";
         ?>
 
-
-
-        <!--Page Title-->
-        <section class="page-title" style="background-image: url(assets/images/background/page-title.jpg);">
-            <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-35.png);"></div>
-            <div class="auto-container">
-                <div class="content-box">
-                    <div class="title-box centred">
-                        <h2>About Company</h2>
-                        <h1 style="color: #87cefa;">Amiti Corp</h1>
-                        <p>Excellent Solutions with Excellent Consulting</p>
-                    </div>
-                    <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
-                        <!-- <li>About</li>-->
-                        <li>About Company</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-        <!--End Page Title-->
-
-
-
-
-
-
-
         <!------------------------------------------------------------------------------------------->
         <!-- about-company -->
         <section class="about-style-two about-page">
@@ -74,8 +46,7 @@ include "includes/head_include.php"
                             <div id="content_block_3">
                                 <div class="content-box">
                                     <div class="sec-title">
-                                        <span class="top-title"><span style="font-size: 20px;color: white;margin-left: -8px;">Ab</span>out Our </span>
-                                        <h2>Company Objective</h2>
+                                        <span class="top-title"><span style="font-size: 20px;color: white;margin-left: -8px;">Co</span>mpany Objective </span>
                                     </div>
                                     <div class="text">
                                         <p>The company’s goal in the next years is to pursue an aggressive marketing campaign and achieve a large percentage of market shares both in US and India as an emerging market. The company will assert itself into
@@ -100,14 +71,6 @@ include "includes/head_include.php"
             </div>
         </section>
         <!-- about-style-two end --------------------------------------------------------------->
-
-
-
-
-
-
-
-
 
 
         <!------------------------------------------------------------------------------------------->
@@ -164,27 +127,16 @@ include "includes/head_include.php"
         <!-- process-style-two end 
         <!------------------------------------------------------------------------------------------->
 
-
-
-
-
-
-
-
-
-
-
-
         <!------------------------------------------------------------------------------------------->
         <!-- history-section -->
         <section class="history-section">
-            <figure class="image-layer"><img src="assets/images/resource/history-1.png" alt=""></figure>
+            <!--<figure class="image-layer"><img src="assets/images/resource/history-1.png" alt=""></figure>-->
             <div class="auto-container">
                 <div class="row clearfix">
                     <div class="col-lg-4 col-md-12 col-sm-12 column">
                         <div class="sec-title">
                             <span class="top-title"><span style="font-size: 22px;color: white;margin-left: -10px;">Ou</span>r History</span>
-                            <h2>Taking a Look Back of Our History</h2>
+                            <h2>Taking a look back of our history</h2>
 
                             <div class="inner-box">
                                 <div class="content-box">
@@ -310,8 +262,11 @@ include "includes/head_include.php"
                                     <h2>Our Experience & Team</h2>
                                 </div>
                                 <div class="text ">
-                                    <p>AMITI Consulting Corp. is a Global Service Center focused on providing skilled IT professionals for all its Clients. Over the years, we have built a strong bond with our Clients. The major attributes of this strong
-                                        bond are flexibility of work and quality of professionals which we provide to the industry. We persistently work towards providing our Clients with an expert Candidate resource pool.</p>
+                                    <p>AMITI Corp. is a Global Service Center focused on providing skilled IT professionals
+                                         for all its clients. Over the years, we have built a strong bond with our clients. The major 
+                                         attributes of this strong bond are flexibility of work and quality of professionals which we 
+                                         provide to the industry. We persistently work towards providing our clients with an expert 
+                                         candidate resource pool.</p>
                                 </div><br>
                                 <div class="progress-inner ">
                                     <div class="progress-box ">

@@ -12,7 +12,7 @@
                                 <h3>Address</h3>
                             </div>
                             <div class="text ">
-                                <p>Amiti Consulting Corp <br /> 20745 Williamsport Pl Suite<br /> # 350 Ashburn, VA 20147</p>
+                                <p>Amiti Corp <br /> 20745 Williamsport Pl Suite<br /> # 350 Ashburn, VA 20147</p>
                             </div>
                             <ul class="social-links clearfix ">
                                 <li>
@@ -32,13 +32,13 @@
                                 <h3>Quick Links</h3>
                             </div>
                             <ul class="links-list clearfix ">
-                                <li><a href="about.html ">About Us</a></li>
-                                <li><a href="service.html ">Services</a></li>
-                                <li><a href="team.html ">Meet Out Team</a></li>
-                                <li><a href="testimonials.html ">Testimonials</a></li>
-                                <li><a href="faq.html ">FAQs</a></li>
-                                <li><a href="career.html ">Career</a></li>
-                                <li><a href="contact.html ">Contact Us</a></li>
+                                <li><a href="about.php ">About Us</a></li>
+                                <li><a href="service.php ">Services</a></li>
+                                <li><a href="team.php ">Meet Out Team</a></li>
+                                <li><a href="testimonials.php ">Testimonials</a></li>
+                                <li><a href="faq.php ">FAQs</a></li>
+                                <li><a href="career.php ">Career</a></li>
+                                <li><a href="contact.php ">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -51,7 +51,6 @@
                                 </div>
                                 <ul class="info-box clearfix ">
                                     <li><a href="tel:(703) 483-3943 ">(703) 483-3943</a></li>
-                                    <li><a href="tel:7034833943 ">7034833943</a></li>
                                     <li><a href="mailto:contact@amititech.com ">contact@amititech.com</a></li>
                                 </ul>
                             </div>
@@ -73,7 +72,7 @@
         </div>
         <div class="footer-bottom clearfix ">
             <div class="copyright pull-center ">
-                <p>&copy; 2020 <a href="index.html "> Amiti Consulting Corp</a>, All Rights Reserved.</p>
+                <p>&copy; 2020 <a href="index.html "> Amiti Corp</a>, All Rights Reserved.</p>
 
             </div>
             <!--   <ul class="footer-nav pull-right clearfix ">

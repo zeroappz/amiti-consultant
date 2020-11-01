@@ -43,7 +43,7 @@ include "includes/head_include.php"
                                     <h3> Excellent Soultion <br />with <br />Excellent Consulting.</h3>
                                     <p>By way of us you can achieve what you want.</p>
                                     <div class="btn-box ">
-                                        <a href="contact.html " class="theme-btn-two ">GET IN TOUCH</a>
+                                        <a href="contact.php " class="theme-btn-two ">GET IN TOUCH</a>
                                     </div>
                                 </div>
                             </div>
@@ -64,7 +64,7 @@ include "includes/head_include.php"
                                     <h3> We will be Happy <br />To take care of your work</h3>
                                     <p>By way of us you can achieve what you want.</p>
                                     <div class="btn-box ">
-                                        <a href="contact.html " class="theme-btn-two ">GET IN TOUCH</a>
+                                        <a href="contact.php " class="theme-btn-two ">GET IN TOUCH</a>
                                     </div>
                                 </div>
                             </div>
@@ -97,8 +97,8 @@ include "includes/head_include.php"
                                             <div class="inner-box">
                                                 <h5>Amiti Corp</h5>
 
-                                                <p>Amiti Corp is a rapidly growing application development, infrastructure management, consulting & resource augmentation, solutions and services provider</p>
-                                                <p>Amiti Corp has a team of passionate professionals. We understand our clients critical business objectives and deliver unmatched value and services throughout our relationships and beyond where our people
+                                                <p style="text-align:justify;">Amiti Corp is a rapidly growing application development, infrastructure management, consulting & resource augmentation, solutions and services provider</p>
+                                                <p style="text-align:justify;">Amiti Corp has a team of passionate professionals. We understand our clients critical business objectives and deliver unmatched value and services throughout our relationships and beyond where our people
                                                     are our brand ambassadors and they deliver the brand promised to our customers.</p>
                                                 <ul style="list-style-type: square ; padding-left: 25px; font-size: 15px; color: #A394A3;">
                                                     <li><i class="fa fa-check-square" style="color: #0071BD;"></i>&nbsp;&nbsp;AMITI is a consulting, solutions and services provider company.</li>
@@ -117,7 +117,7 @@ include "includes/head_include.php"
                                                         <h4>Find the Perfect Candidate</h4>
                                                     </li>
                                                 </ul>
-                                                <div class="link"><a href="Contact.html"><i class="flaticon-right-arrow"></i>Contact Us</a>
+                                                <div class="link"><a href="contact.php"><i class="flaticon-right-arrow"></i>Contact Us</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -125,7 +125,7 @@ include "includes/head_include.php"
                                             <div class="inner-box">
                                                 <h5>Find Your Right Place</h5>
                                                 <h2>Explore Your Career Path With Eazy Recruitz</h2>
-                                                <p>Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and we will give you a complete account of the system, and expound the actual teachings.</p>
+                                                <p style="text-align:justify;">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and we will give you a complete account of the system, and expound the actual teachings.</p>
                                                 <ul class="list clearfix">
                                                     <li>
                                                         <figure class="icon-box"><img src="assets/images/icons/icon-71.png" alt=""></figure>
@@ -178,7 +178,7 @@ include "includes/head_include.php"
                                         </h3>
                                     </div>
                                     <div class="text ">
-                                        <p>AMITI's goal in the upcoming years is to pursue an aggressive marketing campaign and achieve a large percentage of market shares both in the United States and India. The company will assert itself into the market
+                                        <p style="text-align:justify;padding-right:15px;">Amiti's goal in the upcoming years is to pursue an aggressive marketing campaign and achieve a large percentage of market shares both in the United States and India. The company will assert itself into the market
                                             using a pilot deployment with the intention to market it as a desirable product and also as a mechanism to prove the revenues associated with the product are sustainable.</p>
                                     </div><br>
                                     <div class="sec-title ">
@@ -186,7 +186,7 @@ include "includes/head_include.php"
                                         </h3>
                                     </div>
                                     <div class="text ">
-                                        <p>AMITI Consulting Corp. is a Global Service Center focused on providing skilled IT professionals for all its Clients. Over the years, we have built a strong bond with our Clients. The major attributes of this strong
+                                        <p style="text-align:justify;padding-right:15px;">Amiti Corp is a Global Service Center focused on providing skilled IT professionals for all its Clients. Over the years, we have built a strong bond with our Clients. The major attributes of this strong
                                             bond are flexibility of work and quality of professionals which we provide to the industry. We persistently work towards providing our Clients with an expert Candidate resource pool.
                                             <br><br>
                                             <b> Mission:</b> Uniting professionals to achieve success through lasting personal relationships.<br>
@@ -225,8 +225,8 @@ include "includes/head_include.php"
             <div class="auto-container ">
                 <div class="sec-title centred ">
                     <span class="top-title "><span style="font-size: 20px;color: white;margin-left: -3px;">Se</span>rvices We Provide</span>
-                    <h2>What Can We Do For You?</h2>
-                    <p>Here at Amiti Consulting we provide a multitude of IT related services including IT Consulting, Resource Augmentation,<br> Application Development, and a variety of Offshore Services</p>
+                    <h2>What can we do for you?</h2>
+                    <p style="text-align:justify;">Here at Amiti Corp, we provide a multitude of IT related services including IT Consulting, Resource Augmentation,<br> Application Development, and a variety of Offshore Services</p>
                 </div>
                 <div class="three-item-carousel owl-carousel owl-theme owl-nav-none owl-dot-style-one ">
                     <div class="service-block-one ">
@@ -436,8 +436,11 @@ include "includes/head_include.php"
                                     <h2>Our Experience & Team</h2>
                                 </div>
                                 <div class="text ">
-                                    <p>AMITI Consulting Corp. is a Global Service Center focused on providing skilled IT professionals for all its Clients. Over the years, we have built a strong bond with our Clients. The major attributes of this strong
-                                        bond are flexibility of work and quality of professionals which we provide to the industry. We persistently work towards providing our Clients with an expert Candidate resource pool.</p>
+                                    <p style="text-align:justify;">Amiti Corp is a Global Service Center focused on providing skilled
+                                     IT professionals for all its clients. Over the years, we have built a strong bond with our clients.
+                                      The major attributes of this strong bond are flexibility of work and quality of professionals 
+                                      which we provide to the industry. We persistently work towards providing our clients with an expert
+                                       candidate resource pool.</p>
                                 </div><br>
                                 <div class="progress-inner ">
                                     <div class="progress-box ">
@@ -663,7 +666,7 @@ include "includes/head_include.php"
                                 <!--   <h3>PAUL PIGNATARO</h3>-->
                             </div><br>
                             <div class="text">
-                                <p>I have worked with Amiti Consultant for over 10 years, they have consistently delivered fair pricing, quality workmanship and complete projects on schedule. I appreciate the level of customer service they deliver by going
+                                <p style="text-align:justify;">I have worked with Amiti Corp for over 10 years, they have consistently delivered fair pricing, quality workmanship and complete projects on schedule. I appreciate the level of customer service they deliver by going
                                     above and beyond expectations.</p>
                             </div>
                         </div>
@@ -684,7 +687,7 @@ include "includes/head_include.php"
                                 <!--   <h3>MITHUN</h3>-->
                             </div><br>
                             <div class="text">
-                                <p>I have worked with Amiti Consultant for over 10 years, they have consistently delivered fair pricing, quality workmanship and complete projects on schedule. I appreciate the level of customer service they deliver by going
+                                <p style="text-align:justify;">I have worked with Amiti Corp for over 10 years, they have consistently delivered fair pricing, quality workmanship and complete projects on schedule. I appreciate the level of customer service they deliver by going
                                     above and beyond expectations.</p>
                             </div>
                         </div>
@@ -705,7 +708,7 @@ include "includes/head_include.php"
                                 <!--    <h3>MITHUN</h3>-->
                             </div><br>
                             <div class="text">
-                                <p>I have worked with Amiti Consultant for over 10 years, they have consistently delivered fair pricing, quality workmanship and complete projects on schedule. I appreciate the level of customer service they deliver by going
+                                <p style="text-align:justify;">I have worked with Amiti Corp for over 10 years, they have consistently delivered fair pricing, quality workmanship and complete projects on schedule. I appreciate the level of customer service they deliver by going
                                     above and beyond expectations.</p>
                             </div>
                         </div>

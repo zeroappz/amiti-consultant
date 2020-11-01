@@ -38,8 +38,12 @@ include "includes/head_include.php"
                                 </div>
                                 <!--    <figure class="image-box"><img src="assets/images/service/details-1.jpg" alt=""></figure>-->
                                 <div class="text">
-                                    <p>Come experience the next generation digital transformation services, adhering to business-centric models for helping Enterprises to achieve the best. Machint’s digital practice drives the outcomes by providing exceptional
-                                        user experience, industry insights, innovation, agility and assurance. Learn how we help clients transform business, operating and technology models in this digital era.</p>
+                                    <p style="text-align:justify;">Come experience the next generation digital transformation services, adhering to business-centric models
+                                         for helping enterprises to achieve the best. Machint’s digital practice drives the outcomes by providing
+                                          exceptional user experience, industry insights, innovation, agility and assurance. Learn how we help 
+                                          clients transform business, operating and technology models in this digital era.</p>
+                                          <br>
+                                      
 
                                 </div>
                             </div>
@@ -142,13 +146,33 @@ include "includes/head_include.php"
                                            
                                             </ul>
                                         </div>
+
                                         <br>
                                         
                                     </div>
                                 </div>
                             </div>
                             <!-------------------------------------------------------------------------------------------------->
+                            <p style="padding-left: 45px;text-align:justify">We pay attention to the needs of both candidate and client by utilizing a targeted recruiting approach
+                                             that takes the same careful considerations favored by premier executive search firms. These efforts
+                                              allow us to reach the area’s best mid-to-executive level technology professionals for contract, 
+                                              contract-to-hire and direct hire positions.</p>
+                                              <br>
+                                     <p style="padding-left: 45px;text-align:justify">Amiti provides customized workforce management solutions delivering qualified employees in various
+                                          disciplines allowing you to adjust your staffing needs to meet your business demands. We have been
+                                           providing highly skilled technical professionals in all IT, Engineering, Professional and Light
+                                            Industrial disciplines on a global basis. Our goal is to deliver qualified candidates in a timely
+                                             manner meeting your specific hiring needs so you can focus on your core business and adjust your
+                                              workforce as you respond to the business demands and critical market needs of your business..</p>
+<br>
 
+                            <h3 style="color:#4771BF">Projects & Software</h3>
+<br>
+      <p style="padding-left: 45px;text-align:justify">    Amiti understands the challenges associated with Software and Engineering Product Design and
+           Development. Amiti has executed a number of product development assignments successfully, on time
+            and with due diligence. Amiti offers exemplary Software Development services to all our clients.
+             Our work is characterized by an ability to combine sound business judgment, innovation, engineering
+              expertise and applied science seamlessly throughout the development process.</p>
 
 
 
