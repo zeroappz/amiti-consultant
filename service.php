@@ -51,7 +51,8 @@ include "includes/head_include.php"
                                     </div>
                                     <div class="overlay-content ">
                                         <p>Cloud<br> AWS Migration<br>IOT</p>
-                                        <a href="technology.php "><i class="flaticon-right-arrow "></i>More details</a>
+                                        <a href="technology.php ">More details</a>
+
                                     </div>
                                 </div>
                             </div>
@@ -74,7 +75,7 @@ include "includes/head_include.php"
                                     </div>
                                     <div class="overlay-content ">
                                         <p>Pitch Club Series<br> Challenges<br> Product Development</p>
-                                        <a href="innovation.php "><i class="flaticon-right-arrow "></i>More details</a>
+                                        <a href="innovation.php ">More details</a>
                                     </div>
                                 </div>
                             </div>
@@ -96,8 +97,10 @@ include "includes/head_include.php"
                                         </div>
                                     </div>
                                     <div class="overlay-content ">
+
                                         <p>Corporate Position <br> Client Position</p>
-                                        <a href="workforce.php "><i class="flaticon-right-arrow "></i>More details</a>
+
+                                        <a href="workforce.php "></i>More details</a>
                                     </div>
                                 </div>
                             </div>

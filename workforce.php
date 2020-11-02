@@ -32,26 +32,18 @@ include "includes/head_include.php"
                     <div class="col-lg-8 col-md-12 col-sm-12 content-side">
                         <div class="service-details-content">
                             <div class="content-one">
-                                <div class="sec-title">
-                                    <span class="top-title">Our Services</span>
+                            <div class="sec-title">
+                                <span class="top-title"><span style="font-size: 22px;color: white;margin-left: -8px;">Ou</span>r Services</span>
                                     <!--  <h2>Understanding Your HR Needs Better</h2>-->
                                 </div>
                                 <!--    <figure class="image-box"><img src="assets/images/service/details-1.jpg" alt=""></figure>-->
-                                <div class="text">
-                                    <p style="text-align:justify;">Come experience the next generation digital transformation services, adhering to business-centric models
-                                         for helping enterprises to achieve the best. Machint’s digital practice drives the outcomes by providing
-                                          exceptional user experience, industry insights, innovation, agility and assurance. Learn how we help 
-                                          clients transform business, operating and technology models in this digital era.</p>
-                                          <br>
-                                      
-
-                                </div>
+                                
                             </div>
                            
 
                             <div class="content-three">
                                 <div class="upper-box">
-                                    <h3>To Know More</h3>
+                                 <!--   <h3>To Know More</h3>-->
 
                                 </div>
                                 <div class="tabs-box">
@@ -60,7 +52,7 @@ include "includes/head_include.php"
                                             <div class="tab-btn-box">
                                                 <ul class="tab-btns tab-buttons clearfix">
                                                     <li class="tab-btn active-btn" data-tab="#tab-1">
-                                                        <div class="icon-box"><i class="flaticon-checkmark"></i></div>
+                                                        <div class="icon-box"><i class="flaticon-checkmark" ></i></div>
                                                         <h6>Workforce management</h6>
                                                     </li>
                                                    
@@ -70,21 +62,22 @@ include "includes/head_include.php"
                                         <div class="col-lg-9 col-md-12 col-sm-12 content-column">
                                             <div class="tabs-content">
                                                 <div class="tab active-tab" id="tab-1">
-                                                    <div class="inner-box">
-                                                        <figure class="image-box"><img src="assets/images/service/details-2.jpg" alt=""></figure>
+                                                 <!--   <div class="inner-box">
+                                                        <figure class="image-box"><img src="assets/images/service/details-2.jpg" alt=""></figure>-->
                                                         <div class="text">
-                                                            <h5 style="color:white;">Cloud</h3>
+                                                            <p>Amiti has a global presence delivering high-quality resources and top-notch recruiting services, enabling businesses to effectively respond to organizational changes and technological advances. Amiti Corp has the ability to provide Managed Staffing Services if a customer wants to outsource the coordination and management of the staff augmentation process freeing their internal resources to focus on their assigned responsibilities. The service can be as comprehensive as needed by providing many variations of the process which would be tailor made to fit a customer’s specific requirements. Amiti Corp provides customized workforce management solutions delivering qualified employees in various disciplines allowing you to adjust your staffing needs to meet your business demands. We have been providing highly skilled technical professionals in all IT, Engineering, Professional and Light Industrial disciplines on a global basis.</p>
+                                                         <!--   <h5 style="color:white;">Cloud</h3>
                                                                 <h5 style="color:white;">AWS Migration</h3>
                                                                     <h5 style="color:white;">IoT </h3>
                                                                         <h5 style="color:white;">Mobile</h3>
                                                                         <h5 style="color:white;">Analytics</h3>
                                                                         <h5 style="color:white;">Cyber Security</h3>
-                                                                        <h5 style="color:white;"> Digital Transformation</h3>
+                                                                        <h5 style="color:white;"> Digital Transformation</h3>-->
                                                                        
 
 
 
-                                                        </div>
+                                                        
                                                     </div>
                                                 </div>
                                                 
@@ -114,18 +107,18 @@ include "includes/head_include.php"
                                         <div class="col-lg-6 col-md-6 col-sm-12 column">
                                             <ul class="list-item clearfix">
                                                 <li>
-                                                    <div class="icon-box"><i class="flaticon-short-tie"></i></div>
-                                                    <b>Corporate Position</b>
+                                                    <div class="icon-box"><i class="flaticon-short-tie" style="color:#0071BD !important"></i></div>
+                                                    <b style="color:#0071BD !important">Corporate Position</b>
                                                     <div class="more-content">
-                                                        <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
+                                                        <div class="menu-icon"><i class="flaticon-menu" style="color:#0071BD !important"></i><i class="flaticon-menu" style="color:#0071BD !important"></i></div>
                                                         
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <div class="icon-box"><i class="flaticon-google-maps"></i></div>
-                                                    <b>Client Position</b>
+                                                    <div class="icon-box"><i class="flaticon-google-maps" style="color:#0071BD !important"></i></div>
+                                                    <b style="color:#0071BD !important">Client Position</b>
                                                     <div class="more-content">
-                                                        <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
+                                                        <div class="menu-icon"><i class="flaticon-menu" style="color:#0071BD !important"></i><i class="flaticon-menu" style="color:#0071BD !important"></i></div>
                                                         
                                                     </div>
                                                 </li>
@@ -136,16 +129,17 @@ include "includes/head_include.php"
                                         <div class="col-lg-6 col-md-6 col-sm-12 column">
                                             <ul class="list-item clearfix">
                                                 <li>
-                                                    <div class="icon-box"><i class="flaticon-hourglass"></i></div>
-                                                    <b>Submit Your Resume</b>
+                                                    <div class="icon-box"><i class="flaticon-hourglass"  style="color:#0071BD !important"></i></div>
+                                                    <b style="color:#0071BD !important">Submit Your Resume</b>
                                                     <div class="more-content">
-                                                        <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
+                                                        <div class="menu-icon"><i class="flaticon-menu" style="color:#0071BD !important"></i><i class="flaticon-menu" style="color:#0071BD !important"></i></div>
                                                         
                                                     </div>
                                                 </li>
                                            
                                             </ul>
                                         </div>
+                                        
 
                                         <br>
                                         
@@ -167,87 +161,40 @@ include "includes/head_include.php"
 <br>
 
                             <h3 style="color:#4771BF">Projects & Software</h3>
+                            
 <br>
-      <p style="padding-left: 45px;text-align:justify">    Amiti understands the challenges associated with Software and Engineering Product Design and
+          <p style="padding-left: 45px;text-align:justify">    Amiti understands the challenges associated with Software and Engineering Product Design and
            Development. Amiti has executed a number of product development assignments successfully, on time
             and with due diligence. Amiti offers exemplary Software Development services to all our clients.
              Our work is characterized by an ability to combine sound business judgment, innovation, engineering
               expertise and applied science seamlessly throughout the development process.</p>
 
 
-
-
-
-
-                            <!-------------------------------------------------------------------------------------------------->
-                            <!--------------------------------------Our Latest Projects-------------------------------------------------->
-
-                            <!--     <div class="content-five">
-                                <div class="upper-box">
-                                    <h3>Our Latest Projects</h3>
-                                </div>
-                                <div class="latest-project-carousel owl-carousel owl-theme owl-dots-none">
-                                    <div class="project-block-two">
-                                        <div class="inner-box">
-                                            <figure class="image-box"><img src="assets/images/project/project-10.jpg" alt=""></figure>
-                                            <div class="content-box">
-                                                <div class="text">
-                                                    <span>@ Presentation</span>
-                                                    <h3><a href="temprory-staffing.html">Helping Bigbasket Scale Up</a></h3>
-                                                </div>
-                                                <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow-angle"></i></a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="project-block-two">
-                                        <div class="inner-box">
-                                            <figure class="image-box"><img src="assets/images/project/project-11.jpg" alt=""></figure>
-                                            <div class="content-box">
-                                                <div class="text">
-                                                    <span>@ Presentation</span>
-                                                    <h3><a href="temprory-staffing.html">Helping Bigbasket Scale Up</a></h3>
-                                                </div>
-                                                <div class="link"><a href="temprory-staffing.html"><i class="flaticon-right-arrow-angle"></i></a></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>-->
                         </div>
                     </div>
 
-                    <!------------------------------------------------------------------------------------------->
-                    <!------------------------------------------------------------------------------------------->
-
-
-
-
-
-
-
-
-
-
-
-                    <!------------------------------------------------------------------------------------------->
+                  
+<!------------------------------------------------------------------------------------------->
                     <!-----------------------------side menu------------------------------------>
 
                     <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
                         <div class="service-sidebar">
+                              <figure class="image-box"><img src="assets/images/resource/men-1.png" alt=""></figure>
                             <div class="sidebar-widget categories-widget">
                                 <ul class="categories-list clearfix">
-                                    <li><a href="technology.php"  style="font-size: 15px;">Technology</a></li>
+                                    <li><a href="technology.php"  style="font-size: 15px;">Tech Solution</a></li>
                                     <li><a href="innovation.php"  style="font-size: 15px;">Innovation</a></li>
                                     <li><a href="workforce.php" class="active" style="font-size: 15px;">Workforce management</a></li>
                                    
 
                                 </ul>
                             </div>
-                          <!--  <div class="sidebar-widget recruitment-widget">
+
+                       <!--     <div class="sidebar-widget recruitment-widget">
                                 <div class="widget-content">
                                     <div class="text">
                                         <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-43.png);"></div>
-                                        <figure class="image-box"><img src="assets/images/resource/men-1.png" alt=""></figure>
+                                      
                                         <h3>Recruitment Solutions for All Industries...</h3>
                                     </div>
                                     <div class="link">
@@ -278,23 +225,12 @@ include "includes/head_include.php"
                             </div>-->
                         </div>
                     </div>
+                    </div>
                 </div>
             </div>
     </div>
     </section>-->
     <!-- service-details end ----------------------------------------------------------------------------->
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     <!------------------------Footer------------------------------------------------------------------------>    

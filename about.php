@@ -73,7 +73,6 @@ include "includes/head_include.php"
         <!-- about-style-two end --------------------------------------------------------------->
 
 
-        <!------------------------------------------------------------------------------------------->
         <!-- history-section -->
         <section class="history-section">
             <!--<figure class="image-layer"><img src="assets/images/resource/history-1.png" alt=""></figure>-->
@@ -208,7 +207,11 @@ include "includes/head_include.php"
                                     <h2>Our Experience & Team</h2>
                                 </div>
                                 <div class="text ">
+<<<<<<< HEAD
                                     <p>Amiti Corp. is a Global Service Center focused on providing skilled IT professionals
+=======
+                                    <p>AMITI Corp. is a Global Service Center focused on providing skilled IT professionals
+>>>>>>> 235ad74ced7757793d11e236240be124ed650a69
                                          for all its clients. Over the years, we have built a strong bond with our clients. The major 
                                          attributes of this strong bond are flexibility of work and quality of professionals which we 
                                          provide to the industry. We persistently work towards providing our clients with an expert 

@@ -33,21 +33,21 @@ include "includes/head_include.php"
                         <div class="service-details-content">
                             <div class="content-one">
                                 <div class="sec-title">
-                                    <span class="top-title">Our Services</span>
+                                <span class="top-title"><span style="font-size: 22px;color: white;margin-left: -8px;">Ou</span>r Services</span>
                                     <!--  <h2>Understanding Your HR Needs Better</h2>-->
                                 </div>
                                 <!--    <figure class="image-box"><img src="assets/images/service/details-1.jpg" alt=""></figure>-->
-                                <div class="text">
+                               <!--   <div class="text">
                                     <p style="text-align:justify;">Come experience the next generation digital transformation services, adhering to business-centric models for helping Enterprises to achieve the best. Machint’s digital practice drives the outcomes by providing exceptional
                                         user experience, industry insights, innovation, agility and assurance. Learn how we help clients transform business, operating and technology models in this digital era.</p>
 
-                                </div>
+                                </div>-->
                             </div>
                            
 
                             <div class="content-three">
                                 <div class="upper-box">
-                                    <h3>To Know More</h3>
+                                    
 
                                 </div>
                                 <div class="tabs-box">
@@ -56,7 +56,7 @@ include "includes/head_include.php"
                                             <div class="tab-btn-box">
                                                 <ul class="tab-btns tab-buttons clearfix">
                                                     <li class="tab-btn active-btn" data-tab="#tab-1">
-                                                        <div class="icon-box"><i class="flaticon-checkmark"></i></div>
+                                                        <div class="icon-box"><i class="flaticon-checkmark" ></i></div>
                                                         <h6>Innovation</h6>
                                                     </li>
                                                    
@@ -66,16 +66,19 @@ include "includes/head_include.php"
                                         <div class="col-lg-9 col-md-12 col-sm-12 content-column">
                                             <div class="tabs-content">
                                                 <div class="tab active-tab" id="tab-1">
-                                                    <div class="inner-box">
-                                                        <figure class="image-box"><img src="assets/images/service/details-2.jpg" alt=""></figure>
+                                                  <!--   <div class="inner-box">
+                                                       <figure class="image-box"><img src="assets/images/service/details-2.jpg" alt=""></figure>-->
                                                         <div class="text">
-                                                            <h5 style="color:white;">Pitch Club Series</h3>
-                                                                <h5 style="color:white;">Challeges</h3>
-                                                                    <h5 style="color:white;">Product Development </h3>
-                                                                        <h5 style="color:white;">Funding</h3>
-                                                                        <h5 style="color:white;">Business Development</h3>
-                                                                 
-                                                        </div>
+                                                        <p style="text-align:justify;padding-top:25px;">At Amiti Innovations, we strongly believe that great minds shape the thinking of successive historical periods. Clearly, our conception of the world and our place in it is drastically changing. Amiti Corp Innovations provides a platform for individuals and corporations across the world, to cross-pollinate their ideas and perspectives in diversified industry verticals (B2C, B2B, M2M and more) like mobility, auto-manufacturing, fintech, travel, insurance, social spacing, health and wellness. Every aspect of the business is changing and with the speed of technology and innovative mind set, products are being redefined and customer lifestyles are being reinvented. A record number of innovative start-ups have mushroomed across the globe – each bringing its own creative solutions. Our high performance innovation engine is powered by tools, skills, platforms, processes and values that bring all these independent forces together as a vital network of change.</p>
+                                                        <!--    <h5 style="color:white;">Cloud</h3>
+                                                            <h5 style="color:white;">AWS Migration</h3>
+                                                            <h5 style="color:white;">IoT </h3>
+                                                            <h5 style="color:white;">Mobile</h3>
+                                                            <h5 style="color:white;">Analytics</h3>
+                                                            <h5 style="color:white;">Cyber Security</h3>
+                                                            <h5 style="color:white;"> Digital Transformation</h3>
+-->
+                                                        
                                                     </div>
                                                 </div>
                                                 
@@ -105,10 +108,10 @@ include "includes/head_include.php"
                                         <div class="col-lg-6 col-md-6 col-sm-12 column">
                                             <ul class="list-item clearfix">
                                                 <li>
-                                                    <div class="icon-box"><i class="flaticon-short-tie"></i></div>
-                                                    <b>Pitch Club</b>
+                                                    <div class="icon-box"><i class="flaticon-short-tie"style="color:#0071BD !important"></i></div>
+                                                    <b style="color:#0071BD !important">Pitch Club</b>
                                                     <div class="more-content">
-                                                        <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
+                                                        <div class="menu-icon"><i class="flaticon-menu" style="color:#0071BD !important"></i><i class="flaticon-menu" style="color:#0071BD !important"></i></div>
                                                         <div class="text">
                                                             <p>Pitch Club Michigan is an ongoing series of monthly startup events across the Michigan landscape (Detroit, Ann Arbor, Lansing, Flint, Pontiac, and Grand Rapids). The events are meant to educate, network, inspire and provide valuable experiences for being investable.
                                                             </p>
@@ -116,10 +119,10 @@ include "includes/head_include.php"
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <div class="icon-box"><i class="flaticon-google-maps"></i></div>
-                                                    <b>Product Development</b>
+                                                    <div class="icon-box"><i class="flaticon-google-maps" style="color:#0071BD !important"></i></div>
+                                                    <b style="color:#0071BD !important">Product Development</b>
                                                     <div class="more-content">
-                                                        <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
+                                                        <div class="menu-icon"><i class="flaticon-menu" style="color:#0071BD !important"></i><i class="flaticon-menu" style="color:#0071BD !important"></i></div>
                                                         <div class="text">
                                                             <p>Expertise and experience blend to add value to your product life cycle. We bring extreme development methods to build exceptional products. </p>
                                                         </div>
@@ -133,10 +136,10 @@ include "includes/head_include.php"
                                         <div class="col-lg-6 col-md-6 col-sm-12 column">
                                             <ul class="list-item clearfix">
                                                 <li>
-                                                    <div class="icon-box"><i class="flaticon-hourglass"></i></div>
-                                                    <b>challenges</b>
+                                                    <div class="icon-box"><i class="flaticon-hourglass" style="color:#0071BD !important"></i></div>
+                                                    <b style="color:#0071BD !important">challenges</b>
                                                     <div class="more-content">
-                                                        <div class="menu-icon"><i class="flaticon-menu"></i><i class="flaticon-menu"></i></div>
+                                                        <div class="menu-icon"><i class="flaticon-menu " style="color:#0071BD !important"></i><i class="flaticon-menu" style="color:#0071BD !important"></i></div>
                                                         <div class="text">
                                                             <p>The challenges cut across several verticals like Mobility, AI, Fintech and more. </p>
                                                         </div>
@@ -149,6 +152,7 @@ include "includes/head_include.php"
                                             </ul>
                                         </div>
                                         <br>
+                                    
                                         
                                     </div>
                                 </div>
@@ -162,15 +166,15 @@ include "includes/head_include.php"
                     <!------------------------------------------------------------------------------------------->
                     <!------------------------------------------------------------------------------------------->
 
-
-                    <!------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------->
                     <!-----------------------------side menu------------------------------------>
 
                     <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
                         <div class="service-sidebar">
+                              <figure class="image-box"><img src="assets/images/resource/men-1.png" alt=""></figure>
                             <div class="sidebar-widget categories-widget">
                                 <ul class="categories-list clearfix">
-                                    <li><a href="technology.php"  style="font-size: 15px;">Technology</a></li>
+                                    <li><a href="technology.php"  style="font-size: 15px;">Tech Solution</a></li>
                                     <li><a href="innovation.php" class="active" style="font-size: 15px;">Innovation</a></li>
                                     <li><a href="workforce.php" style="font-size: 15px;">Workforce management</a></li>
                                    
@@ -178,11 +182,11 @@ include "includes/head_include.php"
                                 </ul>
                             </div>
 
-                       <!--   <div class="sidebar-widget recruitment-widget">
+                       <!--     <div class="sidebar-widget recruitment-widget">
                                 <div class="widget-content">
                                     <div class="text">
                                         <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-43.png);"></div>
-                                        <figure class="image-box"><img src="assets/images/resource/men-1.png" alt=""></figure>
+                                      
                                         <h3>Recruitment Solutions for All Industries...</h3>
                                     </div>
                                     <div class="link">
@@ -211,16 +215,14 @@ include "includes/head_include.php"
                                     </div>
                                 </form>
                             </div>-->
-
                         </div>
+                    </div>
                     </div>
                 </div>
             </div>
     </div>
     </section>-->
     <!-- service-details end ----------------------------------------------------------------------------->
-
-
     <!------------------------Footer------------------------------------------------------------------------>    
        
     <?php
