@@ -169,7 +169,7 @@ include "includes/head_include.php"
 <!------------------------------------------------------------------------------------------->
                     <!-----------------------------side menu------------------------------------>
 
-                    <div class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
+                    <div  style="height: 480px !important;" class="col-lg-4 col-md-12 col-sm-12 sidebar-side">
                         <div class="service-sidebar">
                               <figure class="image-box"><img src="assets/images/resource/men-1.png" alt=""></figure>
                             <div class="sidebar-widget categories-widget">
