@@ -60,7 +60,7 @@
     <div class="header-lower">
         <div class="outer-box clearfix">
             <div class="menu-area pull-left clearfix">
-                <figure class="logo-box" style="background: whitesmoke; padding: 25px;">
+                <figure class="logo-box" style="background: whitesmoke;padding: 25px;">
                     <a href="index.php"><img src="assets/images/logo.png" alt="" width="75px" height="55px" style="padding-left: 20px;"> &nbsp; Amiti Corp </a>
                 </figure>
                 <!--Mobile Navigation Toggler-->
@@ -74,10 +74,10 @@
                         <ul class="navigation clearfix">
                             <li class="current dropdown"><a href="index.php">HOME</a></li>
                             <li class="dropdown"><a href="about.php">ABOUT</a>
-                                <ul>
+                              <!--  <ul>
                                     <li><a href="about.php">About Company</a></li>
                                     <li><a href="team.php">Meet Our Team</a></li>
-                                </ul>
+                                </ul>-->
                             </li>
                             <li class="dropdown"><a href="service.php">SERVICES</a></li>
                             <li class="dropdown">
@@ -87,7 +87,7 @@
                                     <li><a href="testimonials.php">Testimonials</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown"><a href="career.php">News and Updates</li>
+                            <li class="dropdown"><a href="news.php">News and Updates</li>
                             <li class="dropdown"><a href="career.php">CAREER </li>
 
                             <li class="dropdown"><a href="contact.php">Contact</a></li>

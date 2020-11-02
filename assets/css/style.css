@@ -63,7 +63,7 @@
  
  body {
      font-size: 15px;
-     color: #87CEFA;
+     color: #0071BD;
      line-height: 28px;
      font-weight: 400;
      background: #fff;
@@ -73,6 +73,15 @@
      background-repeat: no-repeat;
      background-position: center top;
      -webkit-font-smoothing: antialiased;
+ }
+ 
+ .logo-box {
+     position: relative;
+     float: left !important;
+     padding: 27px 100px 27px 50px;
+     background: whitesmoke !important;
+     margin-right: 75px !important;
+     border-bottom-right-radius: 50px !important;
  }
  
  @media (min-width:1200px) {
@@ -162,8 +171,8 @@
      line-height: 28px;
      font-family: 'Muli', sans-serif;
      font-weight: 400;
-     color: #555555;
-     /*color: #87CEFA;*/
+     color: #000;
+     /*color: #0071BD;*/
      margin: 0px;
      transition: all 500ms ease;
  }
@@ -177,7 +186,7 @@
      position: relative;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 400;
-     color: #555555;
+     color: #000;
      margin: 0px;
      transition: all 500ms ease;
  }
@@ -250,7 +259,7 @@
      top: 0;
      width: 100%;
      height: 100%;
-     background: #E8F6FE;
+     background: #000;
  }
  
  .centred {
@@ -393,7 +402,7 @@
      width: 50px;
      line-height: 50px;
      text-align: center;
-     color: #462b34;
+     color: black;
      background: transparent;
      border-radius: 5px;
      border: 1px solid #eae0d9;
@@ -475,7 +484,7 @@
  .sec-title .top-title:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 50px;
      height: 50px;
      border-radius: 5px;
@@ -487,7 +496,7 @@
  .sec-title .top-title:after {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      border-left: 2px solid #fff;
      border-bottom: 2px solid #fff;
      width: 24px;
@@ -507,7 +516,7 @@
  }
  
  .sec-title.light h2 {
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .sec-title p {
@@ -631,7 +640,7 @@
      display: inline-block;
      font-size: 15px;
      line-height: 20px;
-     color: #87CEFA;
+     color: #0071BD;
      font-weight: 600;
      margin-right: 30px;
      padding-left: 25px;
@@ -644,12 +653,12 @@
  .main-header .header-top .left-info li p {
      font-size: 15px;
      line-height: 20px;
-     color: #87CEFA;
+     color: #0071BD;
      font-weight: 600;
  }
  
  .main-header .header-top .left-info li p a {
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .main-header .header-top .left-info li p a:hover {}
@@ -664,7 +673,7 @@
  
  .main-header .header-top .left-info li p span {
      font-weight: 700;
-     color: #462b34;
+     color: black;
      text-transform: uppercase;
  }
  
@@ -699,11 +708,11 @@
      width: 24px;
      height: 24px;
      line-height: 24px;
-     background: #87CEFA;
+     background: #0071BD;
      text-align: center;
      border-radius: 5px;
      font-size: 10px;
-     color: #462b34;
+     color: black;
      cursor: pointer;
      z-index: 1;
      margin: 0px 2.5px;
@@ -734,7 +743,7 @@
  }
  
  .main-header .header-top .location-box .apply-btn a:hover {
-     color: #462b34;
+     color: black;
  }
  
  .main-header .header-top .right-info .list {
@@ -754,7 +763,7 @@
  }
  
  .main-header .header-top .right-info .list li a {
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .main-header .header-top .right-info .list li a:hover {}
@@ -771,7 +780,7 @@
  }
  
  .main-header .header-top .right-info .social-links li a {
-     color: #462b34;
+     color: black;
  }
  
  .main-header .header-top .right-info .social-links li a:hover {}
@@ -827,7 +836,7 @@
  .main-header .language .lang-btn {
      position: relative;
      display: inline-block;
-     background: #87CEFA;
+     background: #0071BD;
      padding: 12px 15px 13px 14px;
      border-radius: 4px;
      height: 56px;
@@ -838,7 +847,7 @@
      position: relative;
      display: inline-block;
      font-size: 18px;
-     color: #462b34;
+     color: black;
      margin-right: 5px;
  }
  
@@ -849,7 +858,7 @@
      font-size: 13px;
      font-weight: 700;
      font-family: 'Nunito Sans', sans-serif;
-     color: #462b34;
+     color: black;
  }
  
  .main-header .language .lang-btn .arrow {
@@ -858,7 +867,7 @@
      vertical-align: middle;
      padding-left: 4px;
      font-size: 14px;
-     color: #462b34;
+     color: black;
  }
  
  .main-header .language .lang-dropdown {
@@ -866,7 +875,7 @@
      left: 0;
      top: 100%;
      width: 150px;
-     background: #462b34;
+     background: black;
      padding: 5px 0px;
      opacity: 0;
      visibility: hidden;
@@ -940,6 +949,10 @@
      margin-left: 0px !important;
  }
  
+ .main-header .header-top .left-info li p a:hover {
+     color: black;
+ }
+ 
  .main-menu .navigation>li>a {
      position: relative;
      display: block;
@@ -949,7 +962,7 @@
      font-weight: 700;
      opacity: 1;
      font-family: 'Nunito Sans', sans-serif;
-     color: #462b34;
+     color: black;
      z-index: 1;
      padding-right: 17px;
      text-transform: uppercase;
@@ -968,7 +981,7 @@
      right: 0px;
      font-family: 'Font Awesome 5 Free';
      font-size: 12px;
-     color: #bdadad;
+     color: #D3D3D3;
      font-weight: 700;
      transform: rotate(20deg);
      transition: all 500ms ease;
@@ -1133,7 +1146,7 @@
      z-index: 100;
      display: none;
      padding: 10px 0px;
-     background-color: #462b34;
+     background-color: black;
      border-radius: 10px;
      -moz-transform: translateY(30px);
      -webkit-transform: translateY(30px);
@@ -1818,7 +1831,7 @@
  
  .banner-section {
      position: relative;
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .banner-carousel {
@@ -1956,7 +1969,7 @@
  .banner-carousel .content-box p {
      position: relative;
      display: block;
-     color: #87CEFA;
+     color: #0071BD;
      font-size: 18px;
      line-height: 30px;
      font-weight: 500;
@@ -2073,7 +2086,7 @@
  }
  
  .bg-color-1 {
-     /* background: #462b34;*/
+     /* background: black;*/
      background: #212121;
  }
  /** clients-section **/
@@ -2085,7 +2098,7 @@
  .clients-section .clients-logo-box {
      position: relative;
      display: block;
-     background: #462b34;
+     background: black;
      padding: 50px 0px;
      border-right: 1px solid rgba(255, 255, 255, 0.2);
      margin-bottom: 28px;
@@ -2108,7 +2121,7 @@
      left: 40px;
      bottom: -38px;
      width: calc(100% - 80px);
-     background: #87CEFA;
+     background: #0071BD;
      text-align: center;
      border-radius: 5px;
      opacity: 0;
@@ -2125,7 +2138,7 @@
  .clients-section .clients-logo-box .logo-title:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 20px;
      height: 20px;
      left: 50%;
@@ -2142,7 +2155,7 @@
      line-height: 30px;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 600;
-     color: #462b34;
+     color: black;
      z-index: 1;
  }
  /** welcome-section **/
@@ -2220,7 +2233,7 @@
      position: relative;
      display: inline-block;
      float: left;
-     background: #87CEFA;
+     background: #0071BD;
      padding: 24px 70px 25px 70px;
      border-radius: 5px;
      width: 270px;
@@ -2231,7 +2244,7 @@
  #content_block_1 .content-box .tab-btns li:after {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 1px;
      height: 30px;
      right: 50px;
@@ -2253,7 +2266,7 @@
      left: 20px;
      top: 20px;
      font-size: 30px;
-     color: #462b34;
+     color: black;
      transition: all 500ms ease;
  }
  
@@ -2490,7 +2503,7 @@
      line-height: 26px;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      text-transform: uppercase;
  }
  
@@ -2512,7 +2525,7 @@
  #content_block_3 .content-box .author-text {
      position: relative;
      display: block;
-     background: #87CEFA;
+     background: #0071BD;
      padding: 32px 50px 34px 100px;
      border-radius: 100px 100px 100px 0px;
      margin-bottom: 20px;
@@ -2522,7 +2535,7 @@
  #content_block_3 .content-box .author-text:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 40px;
      height: 40px;
      left: 0px;
@@ -2587,7 +2600,7 @@
      font-size: 17px;
      line-height: 28px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  #content_block_3 .content-box .author-info .signature {
@@ -2689,7 +2702,7 @@
      font-size: 14px;
      line-height: 26px;
      font-family: 'Nunito Sans', sans-serif;
-     color: #462b34;
+     color: black;
      font-weight: 700;
      text-transform: uppercase;
  }
@@ -2699,7 +2712,7 @@
      left: 30px;
      top: 30px;
      background: #212121;
-     /*#462b34;*/
+     /*black;*/
      border-radius: 10px;
      width: calc(100% - 60px);
      overflow: hidden;
@@ -2807,7 +2820,7 @@
      position: absolute;
      top: 140px;
      right: 130px;
-     background: #87CEFA;
+     background: #0071BD;
      width: 120px;
      height: 120px;
      border-radius: 50%;
@@ -2942,8 +2955,8 @@
  
  .industries-section .sec-title .top-title:after {
      background: #624b52;
-     border-left: 2px solid #462b34;
-     border-bottom: 2px solid #462b34;
+     border-left: 2px solid black;
+     border-bottom: 2px solid black;
  }
  
  .industries-section .sec-title {
@@ -3024,7 +3037,7 @@
      display: inline-block;
      font-size: 16px;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      width: 62px;
      height: 62px;
      line-height: 62px;
@@ -3218,7 +3231,7 @@
  }
  
  .process-block-one .inner-box .lower-content a:hover {
-     color: #462b34;
+     color: black;
  }
  
  .process-block-one .inner-box .icon-box .anim-icon .icon-1 {
@@ -3257,12 +3270,12 @@
  
  .team-section .sec-title .top-title:before,
  .team-section .sec-title .top-title:after {
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .team-section .sec-title .top-title:after {
-     border-left: 2px solid #87CEFA;
-     border-bottom: 2px solid #87CEFA;
+     border-left: 2px solid #0071BD;
+     border-bottom: 2px solid #0071BD;
  }
  
  .team-section .pattern-layer {
@@ -3281,7 +3294,7 @@
      position: relative;
      width: 100%;
      height: 2px;
-     background: #87CEFA;
+     background: #0071BD;
      border-radius: 0px;
      margin-bottom: 12px;
  }
@@ -3322,7 +3335,7 @@
      top: 11px;
      right: 11px;
      font-size: 16px;
-     color: #462b34;
+     color: black;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
      opacity: 0;
@@ -3366,7 +3379,7 @@
      font-size: 14px;
      line-height: 24px;
      font-family: 'Nunito Sans', sans-serif;
-     color: #462b34;
+     color: black;
      font-weight: 700;
      text-transform: uppercase;
  }
@@ -3398,7 +3411,7 @@
  .team-block-one .inner-box .image-box:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 100%;
      height: 100%;
      left: 0px;
@@ -3450,8 +3463,8 @@
      position: absolute;
      right: 0px;
      bottom: 0px;
-     background: #87CEFA;
-     color: #462b34;
+     background: #0071BD;
+     color: black;
      font-size: 14px;
      line-height: 24px;
      font-weight: 400;
@@ -3471,7 +3484,7 @@
      position: absolute;
      right: -144px;
      bottom: 0px;
-     background: #87CEFA;
+     background: #0071BD;
      text-align: center;
      z-index: 1;
      width: 144px;
@@ -3492,7 +3505,7 @@
      display: inline-block;
      float: left;
      width: 25%;
-     border-right: 1px solid #87CEFA;
+     border-right: 1px solid #0071BD;
  }
  
  .team-block-one .inner-box .image-box .share-box .social-links li:last-child {
@@ -3503,7 +3516,7 @@
      position: relative;
      display: inline-block;
      font-size: 14px;
-     color: #462b34;
+     color: black;
      width: 100%;
      height: 36px;
      line-height: 36px;
@@ -3530,7 +3543,7 @@
  
  .team-block-one .inner-box .lower-content h3 a {
      display: inline-block;
-     color: #462b34;
+     color: black;
  }
  
  .team-block-one .inner-box .lower-content h3 a:hover {}
@@ -3748,7 +3761,7 @@
  }
  
  .bg-color-2 {
-     background: #87CEFA;
+     background: #0071BD;
  }
  /** testimonial-section **/
  
@@ -3758,13 +3771,13 @@
  }
  
  .testimonial-section .sec-title .top-title:after {
-     border-left: 2px solid #87CEFA;
-     border-bottom: 2px solid #87CEFA;
+     border-left: 2px solid #0071BD;
+     border-bottom: 2px solid #0071BD;
  }
  
  .testimonial-section .sec-title .top-title:before,
  .testimonial-section .sec-title .top-title:after {
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .testimonial-block-one {
@@ -4237,7 +4250,7 @@
  
  .main-header.style-two .header-lower .outer-box {
      position: relative;
-     background: #462b34;
+     background: black;
      border-radius: 10px 10px 0px 0px;
  }
  
@@ -4260,7 +4273,7 @@
  .main-header.style-two .menu-right-content .theme-btn-one {}
  
  .main-header.style-two .sticky-header {
-     background: #462b34;
+     background: black;
  }
  /** banner-style-two **/
  
@@ -4273,7 +4286,7 @@
  .banner-section.style-two:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: calc(100% + 100px);
      left: -50px;
      top: 110px;
@@ -4309,7 +4322,7 @@
  .banner-section.style-two .banner-carousel:before {
      position: absolute;
      content: '';
-     background: #462b34;
+     background: black;
      width: 100%;
      height: 560px;
      left: 0px;
@@ -4371,7 +4384,7 @@
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
      background: #fff;
-     color: #462b34;
+     color: black;
      text-transform: uppercase;
      padding: 14px 48px;
      text-align: center;
@@ -4457,7 +4470,7 @@
  }
  
  .banner-carousel .btn-box .btn-two:hover {
-     color: #462b34;
+     color: black;
  }
  
  .banner-carousel .btn-box a {
@@ -4479,7 +4492,7 @@
      line-height: 60px;
      text-align: center;
      font-size: 14px;
-     color: #462b34;
+     color: black;
      background: #fff;
      font-weight: 700;
      text-align: center;
@@ -4523,7 +4536,7 @@
      font-size: 14px;
      line-height: 16px;
      font-weight: 400;
-     color: #462b34;
+     color: black;
  }
  
  .banner-section .mouse-btn-down .icon-box:before {
@@ -4645,7 +4658,7 @@
      background: #fff;
      border-radius: 50%;
      font-size: 26px;
-     color: #462b34;
+     color: black;
      z-index: 1;
  }
  
@@ -4738,7 +4751,7 @@
  .service-style-two .inner-container:before {
      position: absolute;
      content: '';
-     background: #462b34;
+     background: black;
      width: 100%;
      height: 100%;
      left: 0px;
@@ -4915,7 +4928,7 @@
      right: 0px;
      width: 100%;
      height: 1375px;
-     background: #87CEFA;
+     background: #0071BD;
  }
  /** project-section **/
  
@@ -4926,12 +4939,12 @@
  
  .project-section .sec-title .top-title:before,
  .project-section .sec-title .top-title:after {
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .project-section .sec-title .top-title:after {
-     border-left: 2px solid #87CEFA;
-     border-bottom: 2px solid #87CEFA;
+     border-left: 2px solid #0071BD;
+     border-bottom: 2px solid #0071BD;
  }
  
  .project-section .outer-container {
@@ -4949,7 +4962,7 @@
  .project-block-one .inner-box .image-box {
      position: relative;
      overflow: hidden;
-     background: #462b34;
+     background: black;
      border-radius: 10px;
  }
  
@@ -5078,7 +5091,7 @@
      position: relative;
      display: inline-block;
      font-size: 30px;
-     color: #462b34;
+     color: black;
      font-weight: 400;
      margin: 0px;
      cursor: pointer;
@@ -5100,12 +5113,12 @@
  
  .industries-style-two .sec-title .top-title:before,
  .industries-style-two .sec-title .top-title:after {
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .industries-style-two .sec-title .top-title:after {
-     border-left: 2px solid #87CEFA;
-     border-bottom: 2px solid #87CEFA;
+     border-left: 2px solid #0071BD;
+     border-bottom: 2px solid #0071BD;
  }
  
  .industries-style-two .tab-btn-one {
@@ -5248,7 +5261,7 @@
      display: inline-block;
      font-size: 14px;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      width: 62px;
      height: 62px;
      line-height: 62px;
@@ -5303,7 +5316,7 @@
      display: block;
      font-size: 22px;
      line-height: 30px;
-     color: #462b34;
+     color: black;
      font-weight: 700;
      transition: all 500ms ease;
  }
@@ -5323,8 +5336,8 @@
  }
  
  .chooseus-section .top-title.light:after {
-     border-bottom: 2px solid #462b34;
-     border-left: 2px solid #462b34;
+     border-bottom: 2px solid black;
+     border-left: 2px solid black;
  }
  
  .chooseus-section .sec-title p {
@@ -5490,7 +5503,7 @@
      font-size: 17px;
      line-height: 28px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
      padding-bottom: 23px;
      margin-bottom: 38px;
  }
@@ -5548,7 +5561,7 @@
      font-weight: 700;
      font-family: 'Nunito Sans', sans-serif;
      color: #fff;
-     background: #462b34;
+     background: black;
      text-transform: uppercase;
      padding: 14px 30px;
      text-align: center;
@@ -5558,8 +5571,8 @@
  .pricing-block-one .inner-box:hover a {}
  
  .pricing-block-one.popular .inner-box {
-     background: #87CEFA;
-     border-color: #87CEFA;
+     background: #0071BD;
+     border-color: #0071BD;
  }
  
  .pricing-block-one.popular .inner-box .popular-tag {
@@ -5629,8 +5642,8 @@
      font-weight: 700;
      font-family: 'Nunito Sans', sans-serif;
      text-transform: uppercase;
-     border: 1px solid #87CEFA;
-     background: #87CEFA;
+     border: 1px solid #0071BD;
+     background: #0071BD;
      text-align: center;
      padding: 13px 15px;
      width: 110px;
@@ -5721,7 +5734,7 @@
      display: inline-block;
      width: 6px;
      height: 6px;
-     background: #87CEFA;
+     background: #0071BD;
      margin: 0px 10px;
      cursor: pointer;
      border-radius: 50%;
@@ -5847,7 +5860,7 @@
      position: relative;
      display: inline-block;
      font-size: 30px;
-     color: #462b34;
+     color: black;
      font-weight: 400;
      margin: 0px;
      cursor: pointer;
@@ -5922,7 +5935,7 @@
  }
  
  .clients-style-two .title-inner .btn-box a.btn-two {
-     color: #462b34;
+     color: black;
      background: #fff;
  }
  
@@ -5979,12 +5992,12 @@
  
  .contactinfo-section .sec-title .top-title:before,
  .contactinfo-section .sec-title .top-title:after {
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .contactinfo-section .sec-title .top-title:after {
-     border-left: 2px solid #87CEFA;
-     border-bottom: 2px solid #87CEFA;
+     border-left: 2px solid #0071BD;
+     border-bottom: 2px solid #0071BD;
  }
  
  #content_block_6 .content-box {
@@ -6029,7 +6042,7 @@
  }
  
  #content_block_6 .content-box .info-list li .inner p a {
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  #content_block_6 .content-box .info-list li .inner p a:hover {}
@@ -6037,7 +6050,7 @@
  #content_block_6 .content-box .info-list li .inner:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 2px;
      height: 62px;
      left: 0px;
@@ -6158,8 +6171,8 @@
  .nice-select:after {
      width: 8px;
      height: 8px;
-     border-bottom: 2px solid #462b34;
-     border-right: 2px solid #462b34;
+     border-bottom: 2px solid black;
+     border-right: 2px solid black;
      right: 20px;
  }
  
@@ -6173,7 +6186,7 @@
      padding: 8px 20px;
      font-size: 17px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .main-footer .callback-widget .widget-content {
@@ -6212,7 +6225,7 @@
      padding: 10px 20px;
      font-size: 17px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
      transition: all 500ms ease;
  }
  
@@ -6224,7 +6237,7 @@
  }
  
  .main-footer .callback-widget .widget-content .form-group button:after {
-     background: #462b34;
+     background: black;
  }
  
  .main-footer .callback-widget .pattern-layer .pattern-1 {
@@ -6350,7 +6363,7 @@
  }
  
  .main-header.style-three .sticky-header {
-     background: #462b34;
+     background: black;
  }
  
  .main-header.style-three .menu-right-content .search-btn button {
@@ -6654,12 +6667,12 @@
  
  .about-style-three .sec-title .top-title:before,
  .about-style-three .sec-title .top-title:after {
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .about-style-three .sec-title .top-title:after {
-     border-left: 2px solid #87CEFA;
-     border-bottom: 2px solid #87CEFA;
+     border-left: 2px solid #0071BD;
+     border-bottom: 2px solid #0071BD;
  }
  
  .about-style-three .image-box {
@@ -6703,16 +6716,16 @@
  }
  
  .chooseus-section.alternet-2 .chooseus-block-one .inner-box h3 {
-     color: #462b34;
+     color: black;
  }
  
  .chooseus-section.alternet-2 .chooseus-block-one .inner-box p {
-     color: #87CEFA;
+     color: #0071BD;
      margin-bottom: 20px;
  }
  
  .chooseus-section.alternet-2 .chooseus-block-one .inner-box a {
-     color: #462b34;
+     color: black;
      padding: 0px !important;
  }
  
@@ -6721,7 +6734,7 @@
      margin-right: 8px;
      opacity: 1;
      top: 6px;
-     color: #462b34;
+     color: black;
  }
  
  .chooseus-section.alternet-2 .chooseus-block-one .inner-box a:hover {}
@@ -6804,8 +6817,8 @@
  }
  
  .service-section .sec-title.light .top-title:after {
-     border-left: 2px solid #462b34;
-     border-bottom: 2px solid #462b34;
+     border-left: 2px solid black;
+     border-bottom: 2px solid black;
  }
  
  .service-section .sec-title.light p {
@@ -6832,7 +6845,7 @@
  .process-style-two:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 100%;
      height: 675px;
      left: 0px;
@@ -6842,19 +6855,19 @@
  .process-style-two .inner-container {
      position: relative;
      border-radius: 10px 10px 0px 0px;
-     background: #87CEFA;
+     background: #0071BD;
      padding: 95px 0px 122px 0px;
      overflow: hidden;
  }
  
  .process-style-two .sec-title .top-title:before,
  .process-style-two .sec-title .top-title:after {
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .process-style-two .sec-title .top-title:after {
-     border-left: 2px solid #87CEFA;
-     border-bottom: 2px solid #87CEFA;
+     border-left: 2px solid #0071BD;
+     border-bottom: 2px solid #0071BD;
  }
  
  .process-style-two .single-item .inner-box {
@@ -6866,7 +6879,7 @@
  .process-style-two .single-item .inner-box:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 1px;
      height: calc(100% + 377px);
      right: 0px;
@@ -6880,7 +6893,7 @@
  .process-style-two .single-column:first-child .single-item .inner-box:after {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 1px;
      height: calc(100% + 277px);
      left: 0px;
@@ -6923,7 +6936,7 @@
  
  .process-style-two .single-item .inner-box h3 a {
      display: inline-block;
-     color: #462b34;
+     color: black;
  }
  
  .process-style-two .single-item .inner-box h3 a:hover {}
@@ -6941,7 +6954,7 @@
      font-family: 'Nunito Sans', sans-serif;
      line-height: 24px;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      text-transform: uppercase;
  }
  
@@ -6989,7 +7002,7 @@
      font-size: 17px;
      line-height: 28px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .pricing-block-two .inner-box .text:before {
@@ -7045,7 +7058,7 @@
      font-weight: 700;
      font-family: 'Nunito Sans', sans-serif;
      color: #fff;
-     background: #462b34;
+     background: black;
      text-transform: uppercase;
      padding: 14px 58px;
      text-align: center;
@@ -7066,7 +7079,7 @@
      font-size: 18px;
      line-height: 28px;
      font-family: 'Muli', sans-serif;
-     color: #462b34;
+     color: black;
      font-weight: 500;
      margin-bottom: 18px;
      padding-left: 34px;
@@ -7114,8 +7127,8 @@
  }
  
  .team-style-two .sec-title .top-title:after {
-     border-left: 2px solid #462b34;
-     border-bottom: 2px solid #462b34;
+     border-left: 2px solid black;
+     border-bottom: 2px solid black;
  }
  
  .team-style-two .owl-dots {
@@ -7148,9 +7161,9 @@
  
  .project-style-two .more-text p a {
      display: inline-block;
-     color: #462b34;
+     color: black;
      line-height: 30px;
-     border-bottom: 1px solid #462b34;
+     border-bottom: 1px solid black;
  }
  
  .project-style-two .more-text p a:hover {}
@@ -7167,7 +7180,7 @@
  
  .testimonial-style-three .sec-title .top-title:before,
  .testimonial-style-three .sec-title .top-title:after {
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .testimonial-style-three .sec-title .top-title:after {
@@ -7276,7 +7289,7 @@
      line-height: 24px;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      text-transform: uppercase;
      z-index: 1;
  }
@@ -7296,8 +7309,8 @@
  }
  
  .clients-section.alternet-2 .clients-logo-box {
-     background: #87CEFA;
-     border-right: 1px solid #87CEFA;
+     background: #0071BD;
+     border-right: 1px solid #0071BD;
      margin-bottom: 0px;
      margin-top: 48px;
  }
@@ -7383,7 +7396,7 @@
      position: relative;
      display: inline-block;
      font-size: 14px;
-     color: #87CEFA;
+     color: #0071BD;
      background: #fff;
      width: 45px;
      height: 45px;
@@ -7612,11 +7625,11 @@
  }
  
  .process-style-two.alternet-2:before {
-     background: #462b34;
+     background: black;
  }
  
  .process-style-two.alternet-2 .inner-container {
-     background: #462b34;
+     background: black;
  }
  
  .process-style-two.alternet-2 .sec-title .top-title:before,
@@ -7625,8 +7638,8 @@
  }
  
  .process-style-two.alternet-2 .sec-title .top-title:after {
-     border-left: 2px solid #462b34;
-     border-bottom: 2px solid #462b34;
+     border-left: 2px solid black;
+     border-bottom: 2px solid black;
  }
  
  .process-style-two.alternet-2 .single-item .inner-box h3 a {
@@ -7887,12 +7900,12 @@
  
  .team-style-four .sec-title .top-title:before,
  .team-style-four .sec-title .top-title:after {
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .team-style-four .sec-title .top-title:after {
-     border-left: 2px solid #87CEFA;
-     border-bottom: 2px solid #87CEFA;
+     border-left: 2px solid #0071BD;
+     border-bottom: 2px solid #0071BD;
  }
  
  .team-style-four .team-block-one .inner-box {
@@ -8053,7 +8066,7 @@
      display: inline-block;
      font-size: 14px;
      font-family: 'Nunito Sans', sans-serif;
-     color: #462b34;
+     color: black;
      font-weight: 700;
      text-transform: uppercase;
  }
@@ -8114,7 +8127,7 @@
      left: 0px;
      bottom: 0px;
      width: 100%;
-     background: #462b34;
+     background: black;
      padding: 25px 30px 25px 30px;
      border-top-left-radius: 10px;
      font-size: 22px;
@@ -8162,7 +8175,7 @@
      font-size: 35px;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
-     color: #87CEFA;
+     color: #0071BD;
      width: 100%;
      text-align: center;
  }
@@ -8203,7 +8216,7 @@
      right: 0px;
      width: 100%;
      height: 100%;
-     background: #87CEFA;
+     background: #0071BD;
      border-radius: 0px 15px 15px 0px;
      text-align: center;
      padding: 20px 15px 20px 15px;
@@ -8231,7 +8244,7 @@
      position: absolute;
      display: inline-block;
      background: #fff;
-     color: #462b34;
+     color: black;
      width: 58px;
      height: 58px;
      line-height: 58px;
@@ -8268,7 +8281,7 @@
  .growth-section:before {
      position: absolute;
      content: '';
-     background: #462b34;
+     background: black;
      width: 100%;
      height: 625px;
      left: 0px;
@@ -8282,8 +8295,8 @@
  }
  
  .growth-section .sec-title .top-title:after {
-     border-left: 2px solid #462b34;
-     border-bottom: 2px solid #462b34;
+     border-left: 2px solid black;
+     border-bottom: 2px solid black;
  }
  
  .growth-section .image-box {
@@ -8393,7 +8406,7 @@
      padding: 10px 20px;
      font-size: 17px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
      transition: all 500ms ease;
  }
  
@@ -8482,7 +8495,7 @@
      display: flex;
      align-items: center;
      justify-content: center;
-     background: #87CEFA;
+     background: #0071BD;
      top: 0px;
      right: 0px;
      text-align: center;
@@ -8497,7 +8510,7 @@
      position: absolute;
      content: '+';
      font-size: 24px;
-     color: #462b34;
+     color: black;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 600;
      width: 60px;
@@ -8539,7 +8552,7 @@
  }
  
  .accordion-box .block .acc-btn.active {
-     background: #462b34;
+     background: black;
  }
  
  .accordion-box .block .acc-btn h5 {
@@ -8673,7 +8686,7 @@
      border-radius: 50%;
      font-size: 30px;
      font-weight: 400;
-     color: #462b34;
+     color: black;
      background: #fff;
      cursor: pointer;
      transition: all 500ms ease;
@@ -8761,7 +8774,7 @@
  }
  
  .hiring-section .left-column {
-     background: #462b34;
+     background: black;
  }
  
  .hiring-section .right-column {
@@ -8808,7 +8821,7 @@
      line-height: 26px;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      border-radius: 4px;
      text-align: center;
      background: #fff;
@@ -8905,7 +8918,7 @@
      padding: 10px 20px;
      font-size: 17px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
      transition: all 500ms ease;
  }
  
@@ -8923,8 +8936,8 @@
  }
  
  .default-form .form-group .nice-select:after {
-     border-bottom: 2px solid #87CEFA;
-     border-right: 2px solid #87CEFA;
+     border-bottom: 2px solid #0071BD;
+     border-right: 2px solid #0071BD;
  }
  
  .contact-section .form-inner .pattern-layer {
@@ -9021,7 +9034,7 @@
      display: inline-block;
      font-size: 30px;
      font-weight: 400;
-     color: #462b34;
+     color: black;
  }
  
  .service-details-content .content-two .inner-box .single-column .content-box .icon-box {
@@ -9030,14 +9043,14 @@
      bottom: 30px;
      font-size: 85px;
      line-height: 85px;
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .service-details-content .content-two .inner-box .single-column .overlay-box {
      position: absolute;
      left: 0px;
      top: 30px;
-     background: #462b34;
+     background: black;
      width: 100%;
      padding: 33px 40px 32px 30px;
      border-radius: 10px 0px 10px 10px;
@@ -9153,7 +9166,7 @@
  .service-details-content .content-three .tab-btns li.active-btn:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 30px;
      height: 30px;
      top: 50%;
@@ -9163,7 +9176,7 @@
  }
  
  .service-details-content .content-three .tab-btns li.active-btn {
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .service-details-content .content-three .tab-btns li:last-child {
@@ -9217,7 +9230,7 @@
      bottom: 0px;
      width: calc(100% - 30px);
      border-top-right-radius: 10px;
-     background: #87CEFA;
+     background: #0071BD;
      padding: 34px 30px 32px 30px;
  }
  
@@ -9283,7 +9296,7 @@
  }
  
  .service-details-content .content-four .inner-box .list-item li:hover {
-     background: #462b34;
+     background: black;
  }
  
  .service-details-content .content-four .inner-box .list-item li:last-child {
@@ -9301,7 +9314,7 @@
  .service-details-content .content-four .inner-box .list-item li .icon-box:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 1px;
      height: 32px;
      top: -1px;
@@ -9414,7 +9427,7 @@
      width: calc(100% - 60px);
      padding: 26px 40px 21px 30px;
      border-top-right-radius: 10px;
-     background: #462b34;
+     background: black;
      opacity: 0;
      transition: all 500ms ease;
  }
@@ -9485,7 +9498,7 @@
      position: relative;
      display: inline-block;
      font-size: 30px;
-     color: #462b34;
+     color: black;
      font-weight: 400;
      margin: 0px;
      cursor: pointer;
@@ -9514,7 +9527,7 @@
      font-size: 20px;
      line-height: 28px;
      font-family: 'Nunito Sans', sans-serif;
-     color: #462b34;
+     color: black;
      font-weight: 700;
      padding: 24px 30px 22px 30px;
      border-bottom: 1px solid #fff;
@@ -9522,7 +9535,7 @@
  
  .service-sidebar .categories-widget .categories-list li a.active,
  .service-sidebar .categories-widget .categories-list li a:hover {
-     background: #462b34;
+     background: black;
      color: #fff;
  }
  
@@ -9579,7 +9592,7 @@
  
  .service-sidebar .recruitment-widget .widget-content .text {
      position: relative;
-     background: #462b34;
+     background: black;
      padding: 43px 130px 42px 30px;
      min-height: 181px;
  }
@@ -9619,7 +9632,7 @@
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
      text-transform: uppercase;
-     color: #462b34;
+     color: black;
  }
  
  .service-sidebar .recruitment-widget .widget-content .link a i {
@@ -9661,7 +9674,7 @@
      line-height: 26px;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      margin-bottom: 13px;
  }
  
@@ -9671,12 +9684,12 @@
      display: block;
      width: 100%;
      height: 54px;
-     background: #87CEFA;
+     background: #0071BD;
      border-radius: 5px;
      padding: 10px 20px;
      font-size: 17px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .service-sidebar .subscribe-widget .subscribe-form .form-group {
@@ -9694,11 +9707,11 @@
  
  .service-sidebar .subscribe-widget .subscribe-form .nice-select {
      border: none !important;
-     background: #87CEFA;
+     background: #0071BD;
      height: 54px;
      font-size: 17px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .service-sidebar .subscribe-widget .subscribe-form .nice-select:after {
@@ -9740,7 +9753,7 @@
      border-radius: 5px;
      padding: 10px 20px;
      font-size: 17px;
-     color: #87CEFA;
+     color: #0071BD;
      font-weight: 500;
      padding-left: 50px;
      transition: all 500ms ease;
@@ -9764,7 +9777,7 @@
      height: 70px;
      padding-left: 50px;
      font-size: 17px;
-     color: #87CEFA;
+     color: #0071BD;
      font-weight: 500;
      background: #fff;
      border: 1px solid #eae0d9;
@@ -9810,13 +9823,13 @@
  .single-job-post .job-header {
      position: relative;
      display: block;
-     background: #87CEFA;
+     background: #0071BD;
      padding: 20px 30px;
      transition: all 500ms ease;
  }
  
  .single-job-post:hover .job-header {
-     background: #462b34;
+     background: black;
  }
  
  .single-job-post .job-header .info li {
@@ -9824,7 +9837,7 @@
      display: inline-block;
      font-size: 17px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #000;
      transition: all 500ms ease;
  }
  
@@ -9841,7 +9854,7 @@
  }
  
  .single-job-post:hover .job-header .info li {
-     color: rgba(255, 255, 255, 0.5);
+     color: white;
  }
  
  .single-job-post .job-header .info li a {
@@ -9849,7 +9862,7 @@
      font-size: 14px;
      line-height: 20px;
      margin-right: 10px;
-     color: #87CEFA;
+     color: #0071BD;
      font-weight: 700;
      text-transform: uppercase;
      background: #fff;
@@ -9913,7 +9926,7 @@
      position: relative;
      font-size: 17px;
      line-height: 28px;
-     color: #87CEFA;
+     color: #0071BD;
      font-weight: 500;
  }
  
@@ -9973,7 +9986,7 @@
      font-size: 14px;
      line-height: 20px;
      font-family: 'Nunito Sans', sans-serif;
-     color: #462b34;
+     color: black;
      font-weight: 700;
      text-transform: uppercase;
      border: 1px solid #eae0d9;
@@ -10032,7 +10045,7 @@
      display: inline-block;
      font-size: 12px;
      line-height: 20px;
-     color: #87CEFA;
+     color: #0071BD;
      text-transform: uppercase;
      font-weight: 700;
      background: #fff;
@@ -10086,7 +10099,7 @@
      font-size: 12px;
      line-height: 40px;
      font-family: 'Nunito Sans', sans-serif;
-     color: #462b34;
+     color: black;
      font-weight: 700;
      text-transform: uppercase;
      background: #fff;
@@ -10134,7 +10147,7 @@
  }
  
  .job-details-content .upper-box .inner-box .info li a:hover {
-     background: #462b34;
+     background: black;
  }
  
  .job-details-content h2 {
@@ -10322,7 +10335,7 @@
  }
  
  .job-sidebar .job-discription .list li p a {
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .job-sidebar .job-discription .list li p a:hover {}
@@ -10334,7 +10347,7 @@
  .job-sidebar .support-widget .widget-content {
      position: relative;
      display: block;
-     background: #462b34;
+     background: black;
      padding: 40px 30px;
      border-radius: 10px;
      overflow: hidden;
@@ -10400,7 +10413,7 @@
      position: relative;
      display: inline-block;
      font-size: 14px;
-     color: #462b34;
+     color: black;
      background: #fff;
      width: 42px;
      height: 42px;
@@ -10460,7 +10473,7 @@
      padding: 10px 20px;
      font-size: 17px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
      border-radius: 5px;
      box-shadow: 0 0px 30px rgba(0, 0, 0, 0.15);
  }
@@ -10481,7 +10494,7 @@
      padding: 10px 20px;
      font-size: 17px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
      border-radius: 5px;
      box-shadow: 0 0px 30px rgba(0, 0, 0, 0.15);
  }
@@ -10504,12 +10517,12 @@
  
  .growth-style-two .sec-title .top-title:before,
  .growth-style-two .sec-title .top-title:after {
-     background: #87CEFA;
+     background: #0071BD;
  }
  
  .growth-style-two .sec-title .top-title:after {
-     border-left: 2px solid #87CEFA;
-     border-bottom: 2px solid #87CEFA;
+     border-left: 2px solid #0071BD;
+     border-bottom: 2px solid #0071BD;
  }
  
  .growth-style-two .sec-title {
@@ -10593,7 +10606,7 @@
      font-size: 14px;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      text-transform: uppercase;
  }
  
@@ -10629,12 +10642,12 @@
  }
  
  .pricing-section.overview-page-2 .sec-title .top-title:after {
-     border-left: 2px solid #87CEFA;
-     border-bottom: 2px solid #87CEFA;
+     border-left: 2px solid #0071BD;
+     border-bottom: 2px solid #0071BD;
  }
  
  .pricing-section.overview-page-2 .pricing-block-one.popular .inner-box {
-     background: #462b34;
+     background: black;
  }
  
  .pricing-section.overview-page-2 .pricing-block-one.popular .inner-box h3 {
@@ -10642,11 +10655,11 @@
  }
  
  .pricing-section.overview-page-2 .pricing-block-one.popular .inner-box .text {
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .pricing-section.overview-page-2 .pricing-block-one.popular .inner-box p {
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .pricing-section.overview-page-2 .pricing-block-one.popular .inner-box a {}
@@ -10674,7 +10687,7 @@
      line-height: 26px;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      border-radius: 4px;
      text-align: center;
      padding: 14px 42px;
@@ -10701,11 +10714,11 @@
      display: block;
      width: 100%;
      height: 58px;
-     background: #87CEFA;
+     background: #0071BD;
      border-radius: 5px;
      font-size: 17px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
      padding: 10px 50px 10px 20px;
  }
  
@@ -10716,7 +10729,7 @@
      width: 44px;
      height: 44px;
      line-height: 44px;
-     background: #462b34;
+     background: black;
      text-align: center;
      font-size: 16px;
      font-weight: 600;
@@ -10796,7 +10809,7 @@
      font-family: 'Muli', sans-serif;
      font-weight: 700;
      text-transform: uppercase;
-     color: #462b34;
+     color: black;
  }
  
  .blog-sidebar .categories-widget .widget-content .list li a:before {
@@ -10899,7 +10912,7 @@
  
  .blog-sidebar .post-widget .widget-content .post h5 a {
      display: inline-block;
-     color: #462b34;
+     color: black;
  }
  
  .blog-sidebar .post-widget .widget-content .post h5 a:hover {}
@@ -10933,8 +10946,8 @@
  }
  
  .blog-sidebar .sidebar-tags .tags-list li a:hover {
-     background: #462b34;
-     border-color: #462b34;
+     background: black;
+     border-color: black;
      color: #fff;
  }
  
@@ -11000,7 +11013,7 @@
      position: relative;
      display: block;
      overflow: hidden;
-     background: #87CEFA;
+     background: #0071BD;
      border-radius: 10px;
      padding: 60px 50px;
  }
@@ -11025,7 +11038,7 @@
      font-size: 14px;
      line-height: 20px;
      font-family: 'Nunito Sans', sans-serif;
-     color: #462b34;
+     color: black;
      font-weight: 700;
      text-transform: uppercase;
      background: #fff;
@@ -11187,7 +11200,7 @@
      position: relative;
      display: inline-block;
      font-size: 16px;
-     color: #462b34;
+     color: black;
      width: 35px;
      height: 40px;
      line-height: 40px;
@@ -11197,7 +11210,7 @@
  .sidebar-page-container .news-block-one .inner-box .lower-content .inner .share-box .social-links li a:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 1px;
      height: 20px;
      top: 10px;
@@ -11226,7 +11239,7 @@
      display: inline-block;
      font-size: 10px;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      background: #fff;
      width: 40px;
      height: 40px;
@@ -11414,7 +11427,7 @@
  .blog-details-content .inner-box .two-column .content-box:before {
      position: absolute;
      content: '';
-     background: #462b34;
+     background: black;
      width: 100%;
      height: 100%;
      left: 0px;
@@ -11540,8 +11553,8 @@
  
  .blog-details-content .post-share-option .tag-list li a:hover {
      color: #fff;
-     background: #462b34;
-     border-color: #462b34;
+     background: black;
+     border-color: black;
  }
  
  .blog-details-content .post-share-option .tag-list {
@@ -11576,7 +11589,7 @@
      line-height: 60px;
      background: #fff;
      font-size: 24px;
-     color: #462b34;
+     color: black;
      text-align: center;
      border-radius: 50%;
      box-shadow: 0 0px 30px rgba(0, 0, 0, 0.15);
@@ -11596,7 +11609,7 @@
  .blog-details-content .author-box:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 100%;
      height: 90px;
      left: 0px;
@@ -11658,7 +11671,7 @@
      position: relative;
      display: inline-block;
      font-size: 14px;
-     color: #462b34;
+     color: black;
      width: 42px;
      height: 42px;
      line-height: 42px;
@@ -11882,7 +11895,7 @@
  }
  
  .blog-details-content .comment-box .comment .comment-inner .reply-btn:hover {
-     color: #462b34;
+     color: black;
  }
  
  .blog-details-content .comments-form-area {
@@ -11915,7 +11928,7 @@
      padding: 10px 20px;
      font-size: 17px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
      transition: all 500ms ease;
  }
  
@@ -11974,7 +11987,7 @@
      line-height: 26px;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      border-radius: 4px;
      text-align: center;
      padding: 14px 42px;
@@ -12017,7 +12030,7 @@
      line-height: 24px;
      font-family: 'Nunito Sans', sans-serif;
      font-weight: 700;
-     color: #462b34;
+     color: black;
      text-transform: uppercase;
      margin: 0px 17px;
      cursor: pointer;
@@ -12027,7 +12040,7 @@
  .protfolio-page .filters .filter-tabs li:before {
      position: absolute;
      content: '';
-     background: #87CEFA;
+     background: #0071BD;
      width: 3px;
      height: 6px;
      top: 8px;
@@ -12160,7 +12173,7 @@
  
  .contact-page-section #content_block_6 .content-box .sec-title p span {
      font-weight: 700;
-     color: #462b34;
+     color: black;
  }
  
  .contact-page-section #content_block_6 .content-box .sec-title {
@@ -12220,13 +12233,13 @@
      line-height: 50px;
      text-align: center;
      background: #0071BD;
-     /*background: #87CEFA;*/
+     /*background: #0071BD;*/
      border-radius: 50%;
      transition: all 500ms ease;
  }
  
  .locations-section .single-item .inner-box .info-list li:hover i {
-     background: #462b34;
+     background: black;
  }
  
  .locations-section .single-item .inner-box .info-list li p {
@@ -12234,7 +12247,7 @@
      display: block;
      font-size: 17px;
      line-height: 28px;
-     color: #462b34;
+     color: black;
      font-weight: 700;
      margin-bottom: 0px;
  }
@@ -12245,7 +12258,7 @@
      font-size: 17px;
      line-height: 28px;
      font-weight: 500;
-     color: #87CEFA;
+     color: #0071BD;
  }
  
  .locations-section .single-item .inner-box .info-list li a:hover {}

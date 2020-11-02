@@ -21,35 +21,6 @@ include "includes/head_include.php"
         ?>
 <!------------------------------------------------------------->
 
-
-
-
-
-
-
-
-
-
-
-        <!--Page Title-->
-        <section class="page-title" style="background-image: url(assets/images/background/page-title-2.jpg); padding-bottom: -50px;">
-            <!--   <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-35.png);"></div>-->
-            <div class="auto-container">
-                <div class="content-box">
-                    <div class="title-box centred">
-                        <h1>Get In Touch</h1>
-                        <p>Smarter Business Solutions. Better Customer Relations.</p>
-                    </div>
-                    <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
-                        <li>Contact</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-        <!--End Page Title-->
-
-
         <!-- contactinfo-section -->
         <section class="contactinfo-section contact-page-section">
             <div class="auto-container">
@@ -58,7 +29,7 @@ include "includes/head_include.php"
                         <div id="content_block_6">
                             <div class="content-box">
                                 <div class="sec-title">
-                                    <span class="top-title">Amiti Consulting Corp</span>
+                                    <span class="top-title">Amiti Corp</span>
 
                                 </div>
                                 <ul class="info-list clearfix">

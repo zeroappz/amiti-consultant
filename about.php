@@ -21,34 +21,6 @@ include "includes/head_include.php"
         include "includes/mobile_menu.php";
         ?>
 
-
-
-        <!--Page Title-->
-        <section class="page-title" style="background-image: url(assets/images/background/page-title.jpg);">
-            <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-35.png);"></div>
-            <div class="auto-container">
-                <div class="content-box">
-                    <div class="title-box centred">
-                        <h2>About Company</h2>
-                        <h1 style="color: #87cefa;">Amiti Corp</h1>
-                        <p>Excellent Solutions with Excellent Consulting</p>
-                    </div>
-                    <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
-                        <!-- <li>About</li>-->
-                        <li>About Company</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-        <!--End Page Title-->
-
-
-
-
-
-
-
         <!------------------------------------------------------------------------------------------->
         <!-- about-company -->
         <section class="about-style-two about-page">
@@ -74,8 +46,7 @@ include "includes/head_include.php"
                             <div id="content_block_3">
                                 <div class="content-box">
                                     <div class="sec-title">
-                                        <span class="top-title"><span style="font-size: 20px;color: white;margin-left: -8px;">Ab</span>out Our </span>
-                                        <h2>Company Objective</h2>
+                                        <span class="top-title"><span style="font-size: 20px;color: white;margin-left: -8px;">Co</span>mpany Objective </span>
                                     </div>
                                     <div class="text">
                                         <p>The company’s goal in the next years is to pursue an aggressive marketing campaign and achieve a large percentage of market shares both in US and India as an emerging market. The company will assert itself into
@@ -102,89 +73,16 @@ include "includes/head_include.php"
         <!-- about-style-two end --------------------------------------------------------------->
 
 
-
-
-
-
-
-
-
-
-        <!------------------------------------------------------------------------------------------->
-        <!-- process-style-two------------------------------------------------------------ 
-        <section class="process-style-two alternet-2">
-            <div class="auto-container">
-                <div class="inner-container">
-                    <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-36.png);"></div>
-                    <div class="sec-title light centred">
-                        <span class="top-title">How We Work</span>
-                        <h2>Our Plan & Working Style</h2>
-                    </div>
-                    <div class="row clearfix">
-                        <div class="col-lg-4 col-md-6 col-sm-12 single-column">
-                            <div class="single-item">
-                                <div class="inner-box">
-                                    <span>Step</span>
-                                    <h2>01...</h2>
-                                    <figure class="icon-box"><img src="assets/images/icons/icon-51.png" alt=""></figure>
-                                    <h3><a href="index-4.html">Application Screening & Scheduling</a></h3>
-                                    <p>Indignation and dislike men who are so beguiled and demoralized.</p>
-                                    <div class="link"><a href="index-4.html"><i class="flaticon-right-arrow"></i>More Details</a></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 single-column">
-                            <div class="single-item">
-                                <div class="inner-box">
-                                    <span>Step</span>
-                                    <h2>02...</h2>
-                                    <figure class="icon-box"><img src="assets/images/icons/icon-52.png" alt=""></figure>
-                                    <h3><a href="index-4.html">Employee On-Boarding Checklist</a></h3>
-                                    <p>Desire that they cannot foresee the pain and trouble that are bound.</p>
-                                    <div class="link"><a href="index-4.html"><i class="flaticon-right-arrow"></i>More Details</a></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 single-column">
-                            <div class="single-item">
-                                <div class="inner-box">
-                                    <span>Step</span>
-                                    <h2>03...</h2>
-                                    <figure class="icon-box"><img src="assets/images/icons/icon-53.png" alt=""></figure>
-                                    <h3><a href="index-4.html">Take Care of Employee’s Benefits</a></h3>
-                                    <p>Frequently occur that pleasures have to be repudiated and annoyances.</p>
-                                    <div class="link"><a href="index-4.html"><i class="flaticon-right-arrow"></i>More Details</a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- process-style-two end 
-        <!------------------------------------------------------------------------------------------->
-
-
-
-
-
-
-
-
-
-
-
-
         <!------------------------------------------------------------------------------------------->
         <!-- history-section -->
         <section class="history-section">
-            <figure class="image-layer"><img src="assets/images/resource/history-1.png" alt=""></figure>
+            <!--<figure class="image-layer"><img src="assets/images/resource/history-1.png" alt=""></figure>-->
             <div class="auto-container">
                 <div class="row clearfix">
                     <div class="col-lg-4 col-md-12 col-sm-12 column">
                         <div class="sec-title">
                             <span class="top-title"><span style="font-size: 22px;color: white;margin-left: -10px;">Ou</span>r History</span>
-                            <h2>Taking a Look Back of Our History</h2>
+                            <h2>Taking a look back of our history</h2>
 
                             <div class="inner-box">
                                 <div class="content-box">
@@ -310,14 +208,17 @@ include "includes/head_include.php"
                                     <h2>Our Experience & Team</h2>
                                 </div>
                                 <div class="text ">
-                                    <p>AMITI Consulting Corp. is a Global Service Center focused on providing skilled IT professionals for all its Clients. Over the years, we have built a strong bond with our Clients. The major attributes of this strong
-                                        bond are flexibility of work and quality of professionals which we provide to the industry. We persistently work towards providing our Clients with an expert Candidate resource pool.</p>
+                                    <p>Amiti Corp. is a Global Service Center focused on providing skilled IT professionals
+                                         for all its clients. Over the years, we have built a strong bond with our clients. The major 
+                                         attributes of this strong bond are flexibility of work and quality of professionals which we 
+                                         provide to the industry. We persistently work towards providing our clients with an expert 
+                                         candidate resource pool.</p>
                                 </div><br>
                                 <div class="progress-inner ">
                                     <div class="progress-box ">
                                         <div class="bar ">
-                                            <div class="bar-inner count-bar " data-percent="65% ">
-                                                <div class="count-text ">50%</div>
+                                            <div class="bar-inner count-bar " data-percent="90% ">
+                                                <div class="count-text ">90%</div>
                                             </div>
                                         </div>
                                         <h6>Application and Development</h6>
@@ -327,7 +228,7 @@ include "includes/head_include.php"
 
                                     <div class="progress-box ">
                                         <div class="bar ">
-                                            <div class="bar-inner count-bar " data-percent="52% ">
+                                            <div class="bar-inner count-bar " data-percent="80% ">
                                                 <div class="count-text ">80%</div>
                                             </div>
                                         </div>
@@ -335,8 +236,8 @@ include "includes/head_include.php"
                                     </div>
                                     <div class="progress-box ">
                                         <div class="bar ">
-                                            <div class="bar-inner count-bar " data-percent="78% ">
-                                                <div class="count-text ">60%</div>
+                                            <div class="bar-inner count-bar " data-percent="80% ">
+                                                <div class="count-text ">80%</div>
                                             </div>
                                         </div>
                                         <h6>Innovation</h6>
@@ -344,7 +245,7 @@ include "includes/head_include.php"
 
                                     <div class="progress-box ">
                                         <div class="bar" style="color:red;">
-                                            <div class="bar-inner count-bar " data-percent="89% ">
+                                            <div class="bar-inner count-bar " data-percent="90% ">
                                                 <div class="count-text ">90%</div>
                                             </div>
                                         </div>

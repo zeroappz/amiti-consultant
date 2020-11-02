@@ -21,33 +21,6 @@ include "includes/head_include.php"
         ?>
 <!------------------------------------------------------------->
 
-
-        <!--Page Title-->
-        <section class="page-title" style="background-image: url(assets/images/background/page-title-2.jpg);">
-            <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-35.png);"></div>
-            <div class="auto-container">
-                <div class="content-box">
-                    <div class="title-box centred">
-                        <h1>Job Openings</h1>
-                        <p>Our Team Moves Faster, Keeping you Current on What's Hot</p>
-                    </div>
-                    <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
-                        <li>Job Seekers</li>
-                        <li>Job Openings</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-        <!--------------End Page Title---------------------------------------------------------->
-        <!---------------------------------------------------------------------------------->
-
-
-
-
-
-
-
         <!------------------------ job-details -------------------------------------------------->
         <section class="job-details">
             <div class="auto-container" style="padding-left: 250px;">

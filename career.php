@@ -21,31 +21,6 @@ include "includes/head_include.php"
         ?>
 <!------------------------------------------------------------->
 
-
-        <!--Page Title-->
-        <section class="page-title" style="background-image: url(assets/images/background/page-title-2.jpg);">
-            <div class="pattern-layer" style="background-image: url(assets/images/shape/pattern-35.png);"></div>
-            <div class="auto-container">
-                <div class="content-box">
-                    <div class="title-box centred">
-                        <h1>Job Openings</h1>
-                        <p>Our Team Moves Faster, Keeping you Current on What's Hot</p>
-                    </div>
-                    <ul class="bread-crumb clearfix">
-                        <li><a href="index-2.html">Home</a></li>
-                        <li>Job Seekers</li>
-                        <li>Job Openings</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-        <!--End Page Title-->
-
-
-
-
-
-
         <!--------------------------- findjob-section ------------------------------->
         <!---------------------------------------------------------------------------------->
 
@@ -53,10 +28,10 @@ include "includes/head_include.php"
         <section class="findjob-section">
             <div class="auto-container">
                 <div class="sec-title centred">
-                    <span class="top-title">Recently Posted Jobs</span>
+                    <span class="top-title"><span style="font-size: 22px;color: white;margin-left: -7px;">Re</span>cently Posted Jobs</span>
                     <h2>
                         WE ARE HIRING</h2>
-                    <p>AMITI is a great place to work as we have a productive environment and various benefits. You’ll fit in right with our team as you work through different kinds of problems. Let’s do something special.</p>
+                    <p>Amiti Corp is a great place to work as we have a productive environment and various benefits. You’ll fit in right with our team as you work through different kinds of problems. Let’s do something special.</p>
                 </div>
 
 
@@ -88,7 +63,7 @@ include "includes/head_include.php"
                                 <p>1-3 Yrs</p>
                             </div>
                             <div class="apply-btn">
-                                <a href="job1.html">Apply</a>
+                                <a href="job1.php">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -117,7 +92,7 @@ include "includes/head_include.php"
                                 <p>3-5 Yrs</p>
                             </div>
                             <div class="apply-btn">
-                                <a href="job2.html">Apply</a>
+                                <a href="job2.php">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -147,7 +122,7 @@ include "includes/head_include.php"
                                 <p>Freshers</p>
                             </div>
                             <div class="apply-btn">
-                                <a href="job3.html">Apply</a>
+                                <a href="job3.php">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -177,7 +152,7 @@ include "includes/head_include.php"
                                 <p>3-5 Yrs</p>
                             </div>
                             <div class="apply-btn">
-                                <a href="job4.html">Apply</a>
+                                <a href="job4.php">Apply</a>
                             </div>
                         </div>
                     </div>
