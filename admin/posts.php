@@ -4,6 +4,8 @@ include_once 'class/User.php';
 include_once 'class/Post.php';
 include_once 'class/Category.php';
 include_once 'class/Setting.php';
+include_once 'class/Slider.php';
+include_once 'class/Jobs.php';
 
 error_reporting(0);
 
@@ -14,6 +16,8 @@ $user = new User($db);
 $post = new Post($db);
 $category = new Category($db);
 $setting = new Setting($db);
+$slider = new Slider($db);
+$job = new Job($db);
 
 if(!$user->loggedIn()) {
 	header("location: index.php");
